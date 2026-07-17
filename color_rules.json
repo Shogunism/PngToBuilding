@@ -1,0 +1,26 @@
+{
+  "color_keywords": {
+    "white": ["white", "snow", "quartz", "bone", "ivory", "light"],
+    "black": ["black", "coal", "obsidian", "soot", "ink", "charcoal"],
+    "gray": ["gray", "grey", "silver", "light_gray", "light_grey", "stone", "iron"],
+    "brown": ["brown", "wood", "oak", "spruce", "birch", "acacia", "jungle", "mangrove", "cherry", "mud", "terracotta"],
+    "red": ["red", "crimson", "nether_wart", "ruby", "rose"],
+    "orange": ["orange", "pumpkin", "copper", "terracotta", "sienna"],
+    "yellow": ["yellow", "gold", "sand", "honey", "dandelion"],
+    "green": ["green", "lime", "emerald", "leaf", "fern", "moss", "verdant"],
+    "cyan": ["cyan", "light_blue", "aqua", "teal", "prismarine"],
+    "blue": ["blue", "lapis", "azure", "sapphire", "navy"],
+    "purple": ["purple", "magenta", "violet", "lavender", "amethyst"],
+    "pink": ["pink", "rose", "peach", "fuchsia"]
+  },
+  "thresholds": {
+    "white_min_brightness": 235,
+    "white_max_saturation": 22,
+    "black_max_brightness": 35,
+    "gray_max_saturation": 20,
+    "gray_min_brightness": 85,
+    "brown_max_brightness": 120,
+    "brown_hue_min": 10,
+    "brown_hue_max": 50
+  }
+}

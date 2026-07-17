@@ -1,0 +1,25 @@
+ {
+   "materials": [
+     "Glass", "Cobblestone", "Mud", "Concrete", "Brick", "Fired brick", 
+     "Rammed earth", "Roof tile", "Tile", "Terracotta", "Plaster", 
+     "Diatomaceous earth", "Earthen wall", "Marble", "Granite", "Limestone", 
+     "Sandstone", "Slate", "Basalt", "Cut stone", "River stone", "Wood", 
+     "Log", "Bark", "Bamboo", "Straw", "Thatch", "Reed", "Washi paper", 
+     "Animal hide", "Snow", "Ice", "Coral", "Shell", "Copper", "Bronze", 
+     "Brass", "Iron", "Cast iron", "Wrought iron", "Corten steel", 
+     "Stainless steel", "Titanium", "Aluminum", "Zinc", "Lead", 
+     "Galvalume steel sheet", "Galvanized iron sheet", "Mortar", "Terrazzo", 
+     "Glass block", "Stained glass", "Acrylic", "Polycarbonate", "Linoleum", 
+     "Cork", "Fabric", "Membrane material", "FRP"
+   ],
+   "colors": [
+     "White", "Gray", "Black", "Red", "Orange", "Yellow", "Lime", "Green", 
+     "Cyan", "Light Blue", "Blue", "Purple", "Magenta", "Pink", "Brown"
+   ],
+   "textures": [
+     "Glossy", "Matte", "Rough", "Fibrous", "Patterned"
+   ],
+   "roles": [
+     "Walls", "Roofs", "Windows", "Doors", "Openings", "Decorations", "background"
+   ]
+ }

@@ -1,0 +1,8572 @@
+[
+  "Generated at: 2026-06-16 23:52:44 UTC",
+  {
+    "name": "Acacia Log",
+    "texture": "acacia_log.png",
+    "rgb": [
+      104,
+      97,
+      88
+    ],
+    "lab": [
+      "0.49635625460959570399",
+      "0.00450298598056794730",
+      "0.01598853576389053233"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Acacia Planks",
+    "texture": "acacia_planks.png",
+    "rgb": [
+      169,
+      91,
+      50
+    ],
+    "lab": [
+      "0.55519221304419363872",
+      "0.07934275445313995756",
+      "0.08447550565138528533"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Amethyst Block",
+    "texture": "amethyst_block.png",
+    "rgb": [
+      140,
+      103,
+      194
+    ],
+    "lab": [
+      "0.59039258604919786499",
+      "0.07150460614464004827",
+      "-0.11890625160530060578"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Ancient Debris Side",
+    "texture": "ancient_debris_side.png",
+    "rgb": [
+      99,
+      70,
+      63
+    ],
+    "lab": [
+      "0.42399247205521528592",
+      "0.03475871479098344152",
+      "0.02345987155261669566"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Ancient Debris Top",
+    "texture": "ancient_debris_top.png",
+    "rgb": [
+      102,
+      79,
+      73
+    ],
+    "lab": [
+      "0.44971381609861121875",
+      "0.02674854280140484541",
+      "0.01876572523418756910"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Andesite",
+    "texture": "andesite.png",
+    "rgb": [
+      137,
+      137,
+      137
+    ],
+    "lab": [
+      "0.63009344362833874520",
+      "0.00000000005100780909",
+      "0.00000002348604488667"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Azalea Top",
+    "texture": "azalea_top.png",
+    "rgb": [
+      102,
+      125,
+      47
+    ],
+    "lab": [
+      "0.55423769197810002218",
+      "-0.05993060592485821569",
+      "0.08965834996481802932"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Bamboo Block",
+    "texture": "bamboo_block.png",
+    "rgb": [
+      129,
+      146,
+      58
+    ],
+    "lab": [
+      "0.62772297410049227029",
+      "-0.05592264889623993485",
+      "0.10069919797172405262"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bamboo Block Top",
+    "texture": "bamboo_block_top.png",
+    "rgb": [
+      144,
+      145,
+      66
+    ],
+    "lab": [
+      "0.63887465500331841461",
+      "-0.03433243530325416626",
+      "0.09623707815637161378"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Bamboo Planks",
+    "texture": "bamboo_planks.png",
+    "rgb": [
+      195,
+      175,
+      82
+    ],
+    "lab": [
+      "0.75258155281114602619",
+      "-0.01476765312908806527",
+      "0.11482462713137864263"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Barrel Side",
+    "texture": "barrel_side.png",
+    "rgb": [
+      115,
+      86,
+      51
+    ],
+    "lab": [
+      "0.47513457889054450112",
+      "0.02106979056541430362",
+      "0.05963114295215748983"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Barrel Top",
+    "texture": "barrel_top.png",
+    "rgb": [
+      136,
+      101,
+      59
+    ],
+    "lab": [
+      "0.53295677246970640795",
+      "0.02493945176902931382",
+      "0.06922490269503361882"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Basalt Side",
+    "texture": "basalt_side.png",
+    "rgb": [
+      75,
+      74,
+      78
+    ],
+    "lab": [
+      "0.41149580490106429931",
+      "0.00309491393953997829",
+      "-0.00593621635167673745"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Basalt Top",
+    "texture": "basalt_top.png",
+    "rgb": [
+      86,
+      86,
+      89
+    ],
+    "lab": [
+      "0.45419701459922218190",
+      "0.00134432119211344570",
+      "-0.00462525842291988676"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bedrock",
+    "texture": "bedrock.png",
+    "rgb": [
+      94,
+      94,
+      94
+    ],
+    "lab": [
+      "0.48193149058901035842",
+      "0.00000000003901376444",
+      "0.00000001796346998928"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bee Nest Bottom",
+    "texture": "bee_nest_bottom.png",
+    "rgb": [
+      166,
+      133,
+      92
+    ],
+    "lab": [
+      "0.63806596699040107890",
+      "0.02131058646102529375",
+      "0.06603451604701982003"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Bee Nest Side",
+    "texture": "bee_nest_side.png",
+    "rgb": [
+      202,
+      159,
+      81
+    ],
+    "lab": [
+      "0.72664613478945905278",
+      "0.01792094760131002218",
+      "0.10733612077863224910"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bee Nest Top",
+    "texture": "bee_nest_top.png",
+    "rgb": [
+      211,
+      173,
+      81
+    ],
+    "lab": [
+      "0.76383076532004001713",
+      "0.00662581438652770638",
+      "0.11858157481910952535"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Beehive End",
+    "texture": "beehive_end.png",
+    "rgb": [
+      181,
+      146,
+      90
+    ],
+    "lab": [
+      "0.67992473554067744956",
+      "0.01715265991369230303",
+      "0.08313579693994987974"
+    ],
+    "sides": [
+      "top",
+      "bottom"
+    ]
+  },
+  {
+    "name": "Beehive Side",
+    "texture": "beehive_side.png",
+    "rgb": [
+      160,
+      129,
+      79
+    ],
+    "lab": [
+      "0.62120923660099547359",
+      "0.01535651420017275504",
+      "0.07584334612467286130"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Birch Log",
+    "texture": "birch_log.png",
+    "rgb": [
+      224,
+      222,
+      219
+    ],
+    "lab": [
+      "0.90131455100677160264",
+      "0.00093604293815119366",
+      "0.00451863124880691469"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Birch Planks",
+    "texture": "birch_planks.png",
+    "rgb": [
+      193,
+      176,
+      122
+    ],
+    "lab": [
+      "0.75882025037523059829",
+      "-0.00344214524876429451",
+      "0.07409805227984711529"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Birch Trapdoor",
+    "texture": "birch_trapdoor.png",
+    "rgb": [
+      211,
+      200,
+      168
+    ],
+    "lab": [
+      "0.83345443282090003745",
+      "-0.00101346405843955045",
+      "0.04471607883080230827"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Concrete",
+    "texture": "black_concrete.png",
+    "rgb": [
+      8,
+      10,
+      15
+    ],
+    "lab": [
+      "0.14491205160644399230",
+      "-0.00063164373602971058",
+      "-0.01146610507547234092"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Concrete Powder",
+    "texture": "black_concrete_powder.png",
+    "rgb": [
+      26,
+      27,
+      32
+    ],
+    "lab": [
+      "0.22323907017769650807",
+      "0.00113022415155543399",
+      "-0.00974974703553782573"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Glazed Terracotta",
+    "texture": "black_glazed_terracotta.png",
+    "rgb": [
+      89,
+      33,
+      36
+    ],
+    "lab": [
+      "0.33210103601683121921",
+      "0.07801876649346370374",
+      "0.02771340393372917488"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Shulker Box",
+    "texture": "black_shulker_box.png",
+    "rgb": [
+      25,
+      26,
+      30
+    ],
+    "lab": [
+      "0.21843824684396548341",
+      "0.00063159111613889096",
+      "-0.00791882181301045707"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Stained Glass",
+    "texture": "black_stained_glass.png",
+    "rgb": [
+      24,
+      24,
+      24
+    ],
+    "lab": [
+      "0.20903608515444549454",
+      "0.00000000001692206097",
+      "0.00000000779159173292"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Terracotta",
+    "texture": "black_terracotta.png",
+    "rgb": [
+      37,
+      22,
+      16
+    ],
+    "lab": [
+      "0.21828432648450810105",
+      "0.01999584683306333821",
+      "0.01840674969559716323"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Black Wool",
+    "texture": "black_wool.png",
+    "rgb": [
+      21,
+      22,
+      26
+    ],
+    "lab": [
+      "0.20087373106260467126",
+      "0.00063743644191598114",
+      "-0.00809399332997151610"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blackstone",
+    "texture": "blackstone.png",
+    "rgb": [
+      44,
+      39,
+      45
+    ],
+    "lab": [
+      "0.28059107947805361771",
+      "0.01002190570478309062",
+      "-0.00823154320657518146"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blackstone Top",
+    "texture": "blackstone_top.png",
+    "rgb": [
+      44,
+      39,
+      46
+    ],
+    "lab": [
+      "0.28101931446449429641",
+      "0.01048576762217107161",
+      "-0.00999584286457894100"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Blast Furnace Side",
+    "texture": "blast_furnace_side.png",
+    "rgb": [
+      114,
+      114,
+      114
+    ],
+    "lab": [
+      "0.55207961649945236360",
+      "0.00000000004469249970",
+      "0.00000002057816467227"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blast Furnace Top",
+    "texture": "blast_furnace_top.png",
+    "rgb": [
+      82,
+      81,
+      82
+    ],
+    "lab": [
+      "0.43622689032300321355",
+      "0.00170380649100027037",
+      "-0.00116608942224255552"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Blue Concrete",
+    "texture": "blue_concrete.png",
+    "rgb": [
+      44,
+      46,
+      143
+    ],
+    "lab": [
+      "0.36807634057847227194",
+      "0.01280623692254367896",
+      "-0.15545752897090031608"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Concrete Powder",
+    "texture": "blue_concrete_powder.png",
+    "rgb": [
+      70,
+      73,
+      167
+    ],
+    "lab": [
+      "0.45654011350026840743",
+      "0.01909368367134228750",
+      "-0.14680332227417758340"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Glazed Terracotta",
+    "texture": "blue_glazed_terracotta.png",
+    "rgb": [
+      49,
+      76,
+      152
+    ],
+    "lab": [
+      "0.43815315259076176302",
+      "-0.00798270878667683981",
+      "-0.12823693407010722245"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Ice",
+    "texture": "blue_ice.png",
+    "rgb": [
+      117,
+      168,
+      253
+    ],
+    "lab": [
+      "0.73175422724306304900",
+      "-0.02313666548209430962",
+      "-0.13367429073429182296"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Shulker Box",
+    "texture": "blue_shulker_box.png",
+    "rgb": [
+      44,
+      46,
+      141
+    ],
+    "lab": [
+      "0.36616135103520969230",
+      "0.01301139780108401256",
+      "-0.15271533990968777506"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Stained Glass",
+    "texture": "blue_stained_glass.png",
+    "rgb": [
+      50,
+      76,
+      178
+    ],
+    "lab": [
+      "0.45887547333594108645",
+      "-0.00491301543384509154",
+      "-0.16478500777238130892"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Terracotta",
+    "texture": "blue_terracotta.png",
+    "rgb": [
+      74,
+      59,
+      91
+    ],
+    "lab": [
+      "0.38199086137549231879",
+      "0.03261770423139745412",
+      "-0.04595897122927261602"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Blue Wool",
+    "texture": "blue_wool.png",
+    "rgb": [
+      53,
+      57,
+      157
+    ],
+    "lab": [
+      "0.40659944518560814375",
+      "0.01389217443844564803",
+      "-0.15852202119857594642"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bone Block Side",
+    "texture": "bone_block_side.png",
+    "rgb": [
+      229,
+      225,
+      207
+    ],
+    "lab": [
+      "0.90802258430928095567",
+      "-0.00280248113384995445",
+      "0.02426139995991694054"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bone Block Top",
+    "texture": "bone_block_top.png",
+    "rgb": [
+      210,
+      206,
+      180
+    ],
+    "lab": [
+      "0.84768319727040708500",
+      "-0.00608425887663877063",
+      "0.03480564057647361764"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bookshelf",
+    "texture": "bookshelf.png",
+    "rgb": [
+      133,
+      108,
+      77
+    ],
+    "lab": [
+      "0.54770008772743938863",
+      "0.01670068395540330597",
+      "0.05225290445289382246"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brain Coral Block",
+    "texture": "brain_coral_block.png",
+    "rgb": [
+      208,
+      95,
+      160
+    ],
+    "lab": [
+      "0.64354404321273173117",
+      "0.15608690573334410567",
+      "-0.03621560178721572321"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bricks",
+    "texture": "bricks.png",
+    "rgb": [
+      152,
+      101,
+      88
+    ],
+    "lab": [
+      "0.55771005945570362172",
+      "0.05704444133721806032",
+      "0.03984073934174126030"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Concrete",
+    "texture": "brown_concrete.png",
+    "rgb": [
+      96,
+      59,
+      31
+    ],
+    "lab": [
+      "0.39010159369490260417",
+      "0.03699570231606486015",
+      "0.05552057314237468510"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Concrete Powder",
+    "texture": "brown_concrete_powder.png",
+    "rgb": [
+      125,
+      85,
+      54
+    ],
+    "lab": [
+      "0.48574473903115622520",
+      "0.03704250860609401008",
+      "0.05915344025307917031"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Glazed Terracotta",
+    "texture": "brown_glazed_terracotta.png",
+    "rgb": [
+      137,
+      110,
+      96
+    ],
+    "lab": [
+      "0.56056645825007422879",
+      "0.02657557255038039967",
+      "0.03043213361405217032"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Mushroom Block",
+    "texture": "brown_mushroom_block.png",
+    "rgb": [
+      149,
+      111,
+      81
+    ],
+    "lab": [
+      "0.57243072252892901464",
+      "0.03308346311142051910",
+      "0.05570276628824893939"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Shulker Box",
+    "texture": "brown_shulker_box.png",
+    "rgb": [
+      106,
+      66,
+      36
+    ],
+    "lab": [
+      "0.41909331571627250757",
+      "0.03935823465137830435",
+      "0.05877194040160071964"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Stained Glass",
+    "texture": "brown_stained_glass.png",
+    "rgb": [
+      102,
+      76,
+      50
+    ],
+    "lab": [
+      "0.43762700819935790308",
+      "0.02165513643230712604",
+      "0.04800038427738673175"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Terracotta",
+    "texture": "brown_terracotta.png",
+    "rgb": [
+      77,
+      51,
+      35
+    ],
+    "lab": [
+      "0.34747085398933436062",
+      "0.02811727401655803038",
+      "0.03634508798293012433"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Brown Wool",
+    "texture": "brown_wool.png",
+    "rgb": [
+      114,
+      72,
+      40
+    ],
+    "lab": [
+      "0.44274057346390838230",
+      "0.04049891670225011508",
+      "0.06160624187641705607"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Bubble Coral Block",
+    "texture": "bubble_coral_block.png",
+    "rgb": [
+      168,
+      29,
+      163
+    ],
+    "lab": [
+      "0.52041063150739996779",
+      "0.18919781238071492480",
+      "-0.10984759948324657186"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Budding Amethyst",
+    "texture": "budding_amethyst.png",
+    "rgb": [
+      142,
+      105,
+      191
+    ],
+    "lab": [
+      "0.59420936543065427937",
+      "0.07077091984897376786",
+      "-0.11143857176847354884"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Calcite",
+    "texture": "calcite.png",
+    "rgb": [
+      224,
+      225,
+      221
+    ],
+    "lab": [
+      "0.90784476896608579111",
+      "-0.00256465771815717059",
+      "0.00483739334777688601"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cartography Table Side2",
+    "texture": "cartography_table_side2.png",
+    "rgb": [
+      99,
+      80,
+      74
+    ],
+    "lab": [
+      "0.44882322186043965839",
+      "0.02151942671245171690",
+      "0.01696785092471153611"
+    ],
+    "sides": [
+      "west"
+    ]
+  },
+  {
+    "name": "Cartography Table Top",
+    "texture": "cartography_table_top.png",
+    "rgb": [
+      130,
+      118,
+      110
+    ],
+    "lab": [
+      "0.57437277077669390835",
+      "0.01074666146384412047",
+      "0.01591673130157417182"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Carved Pumpkin",
+    "texture": "carved_pumpkin.png",
+    "rgb": [
+      168,
+      103,
+      23
+    ],
+    "lab": [
+      "0.57299247471109382435",
+      "0.05103398246748788725",
+      "0.10903904405650671761"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cherry Log",
+    "texture": "cherry_log.png",
+    "rgb": [
+      56,
+      34,
+      45
+    ],
+    "lab": [
+      "0.28401521670348539583",
+      "0.03724025984183917948",
+      "-0.00764589599904907935"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cherry Planks",
+    "texture": "cherry_planks.png",
+    "rgb": [
+      226,
+      180,
+      174
+    ],
+    "lab": [
+      "0.80944250553782315372",
+      "0.04851239852029154420",
+      "0.02464228721662742316"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Bookshelf Empty",
+    "texture": "chiseled_bookshelf_empty.png",
+    "rgb": [
+      114,
+      91,
+      54
+    ],
+    "lab": [
+      "0.48544064771144018744",
+      "0.01217919237840422997",
+      "0.05965709303947719366"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Bookshelf Occupied",
+    "texture": "chiseled_bookshelf_occupied.png",
+    "rgb": [
+      141,
+      108,
+      84
+    ],
+    "lab": [
+      "0.55791964081871670000",
+      "0.02967917403291153722",
+      "0.04631502034751905361"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Bookshelf Side",
+    "texture": "chiseled_bookshelf_side.png",
+    "rgb": [
+      176,
+      143,
+      88
+    ],
+    "lab": [
+      "0.66831019498664001599",
+      "0.01527143745419184961",
+      "0.08150976249898217452"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Bookshelf Top",
+    "texture": "chiseled_bookshelf_top.png",
+    "rgb": [
+      179,
+      145,
+      90
+    ],
+    "lab": [
+      "0.67582066807893736993",
+      "0.01639313087354637988",
+      "0.08176392679667571217"
+    ],
+    "sides": [
+      "top",
+      "bottom"
+    ]
+  },
+  {
+    "name": "Chiseled Deepslate",
+    "texture": "chiseled_deepslate.png",
+    "rgb": [
+      56,
+      56,
+      57
+    ],
+    "lab": [
+      "0.34106423742020564038",
+      "0.00048364294193259383",
+      "-0.00165306502510165210"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Nether Bricks",
+    "texture": "chiseled_nether_bricks.png",
+    "rgb": [
+      50,
+      24,
+      29
+    ],
+    "lab": [
+      "0.24749078813627503615",
+      "0.04170252862550700990",
+      "0.00607414627289337705"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Polished Blackstone",
+    "texture": "chiseled_polished_blackstone.png",
+    "rgb": [
+      56,
+      52,
+      61
+    ],
+    "lab": [
+      "0.33267626572088454528",
+      "0.00959435908448250108",
+      "-0.01342215806716506865"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Red Sandstone",
+    "texture": "chiseled_red_sandstone.png",
+    "rgb": [
+      184,
+      98,
+      29
+    ],
+    "lab": [
+      "0.58621604332634713597",
+      "0.07979078816940191055",
+      "0.10863585036165829267"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Sandstone",
+    "texture": "chiseled_sandstone.png",
+    "rgb": [
+      216,
+      204,
+      158
+    ],
+    "lab": [
+      "0.84362324300673119382",
+      "-0.00562425274367728267",
+      "0.06195348522494992238"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Chiseled Stone Bricks",
+    "texture": "chiseled_stone_bricks.png",
+    "rgb": [
+      122,
+      121,
+      122
+    ],
+    "lab": [
+      "0.57729081250540426051",
+      "0.00158824552629893700",
+      "-0.00108742047277948783"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Clay",
+    "texture": "clay.png",
+    "rgb": [
+      160,
+      166,
+      179
+    ],
+    "lab": [
+      "0.72446010976632102540",
+      "-0.00141740006920487716",
+      "-0.01994260730553876204"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Coal Block",
+    "texture": "coal_block.png",
+    "rgb": [
+      17,
+      17,
+      17
+    ],
+    "lab": [
+      "0.17763777191722593396",
+      "0.00000000001438026087",
+      "0.00000000662125396178"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Coal Ore",
+    "texture": "coal_ore.png",
+    "rgb": [
+      110,
+      110,
+      110
+    ],
+    "lab": [
+      "0.53823665861197356186",
+      "0.00000000004357167405",
+      "0.00000002006218363659"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Coarse Dirt",
+    "texture": "coarse_dirt.png",
+    "rgb": [
+      124,
+      89,
+      62
+    ],
+    "lab": [
+      "0.49424715215766856780",
+      "0.03204664789656364032",
+      "0.05208100690660383281"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cobbled Deepslate",
+    "texture": "cobbled_deepslate.png",
+    "rgb": [
+      80,
+      80,
+      83
+    ],
+    "lab": [
+      "0.43233116642803892660",
+      "0.00136020911925432975",
+      "-0.00468371543076290253"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cobblestone",
+    "texture": "cobblestone.png",
+    "rgb": [
+      131,
+      131,
+      131
+    ],
+    "lab": [
+      "0.60998644515813049694",
+      "0.00000000004938055520",
+      "0.00000002273657845331"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Composter Bottom",
+    "texture": "composter_bottom.png",
+    "rgb": [
+      118,
+      74,
+      35
+    ],
+    "lab": [
+      "0.45146532820808771280",
+      "0.04020113741121214557",
+      "0.06959621939974114380"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Composter Side",
+    "texture": "composter_side.png",
+    "rgb": [
+      119,
+      76,
+      38
+    ],
+    "lab": [
+      "0.45722806975742535940",
+      "0.03902228025011106327",
+      "0.06825740843300082128"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Copper Block",
+    "texture": "copper_block.png",
+    "rgb": [
+      194,
+      109,
+      81
+    ],
+    "lab": [
+      "0.62439604835204298716",
+      "0.09008200509160405045",
+      "0.07274174936927596535"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Copper Ore",
+    "texture": "copper_ore.png",
+    "rgb": [
+      129,
+      127,
+      122
+    ],
+    "lab": [
+      "0.59668580202395971046",
+      "0.00018133765312400296",
+      "0.00784913587012636693"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Crafting Table Side",
+    "texture": "crafting_table_side.png",
+    "rgb": [
+      144,
+      117,
+      74
+    ],
+    "lab": [
+      "0.57813106238694911276",
+      "0.01374534863151030684",
+      "0.06703809654639408810"
+    ],
+    "sides": [
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Crafting Table Top",
+    "texture": "crafting_table_top.png",
+    "rgb": [
+      134,
+      82,
+      48
+    ],
+    "lab": [
+      "0.49050102437517617560",
+      "0.05138362788095568456",
+      "0.06741824220443365379"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Crimson Nylium",
+    "texture": "crimson_nylium.png",
+    "rgb": [
+      133,
+      37,
+      37
+    ],
+    "lab": [
+      "0.41663538997725102497",
+      "0.11874830646234560416",
+      "0.05502263415215297160"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Crimson Planks",
+    "texture": "crimson_planks.png",
+    "rgb": [
+      104,
+      50,
+      72
+    ],
+    "lab": [
+      "0.39532666730426796464",
+      "0.08160601682473017648",
+      "-0.00606880433901485494"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Crimson Stem",
+    "texture": "crimson_stem.png",
+    "rgb": [
+      97,
+      28,
+      36
+    ],
+    "lab": [
+      "0.33944215343428235654",
+      "0.09486759519516685391",
+      "0.03002861818078136902"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Crying Obsidian",
+    "texture": "crying_obsidian.png",
+    "rgb": [
+      48,
+      13,
+      92
+    ],
+    "lab": [
+      "0.27248399047752769331",
+      "0.05764502213919020512",
+      "-0.11388331535209222922"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cut Copper",
+    "texture": "cut_copper.png",
+    "rgb": [
+      193,
+      108,
+      83
+    ],
+    "lab": [
+      "0.62172826344715370617",
+      "0.09137034934248200457",
+      "0.06938574659793395050"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cut Red Sandstone",
+    "texture": "cut_red_sandstone.png",
+    "rgb": [
+      190,
+      102,
+      33
+    ],
+    "lab": [
+      "0.60157125446883730202",
+      "0.08133810208956246401",
+      "0.11000635756414778310"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cut Sandstone",
+    "texture": "cut_sandstone.png",
+    "rgb": [
+      218,
+      207,
+      161
+    ],
+    "lab": [
+      "0.85204276506283949111",
+      "-0.00669137083607784788",
+      "0.06152629690798150364"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Concrete",
+    "texture": "cyan_concrete.png",
+    "rgb": [
+      21,
+      119,
+      136
+    ],
+    "lab": [
+      "0.52486251236548264743",
+      "-0.07272310416849542269",
+      "-0.04713663981856497376"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Concrete Powder",
+    "texture": "cyan_concrete_powder.png",
+    "rgb": [
+      36,
+      148,
+      157
+    ],
+    "lab": [
+      "0.61109939550310821144",
+      "-0.08777075477899731748",
+      "-0.03757959352398987374"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Glazed Terracotta",
+    "texture": "cyan_glazed_terracotta.png",
+    "rgb": [
+      78,
+      130,
+      136
+    ],
+    "lab": [
+      "0.57251813748992397279",
+      "-0.05100383181583273418",
+      "-0.02391231346966271598"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Shulker Box",
+    "texture": "cyan_shulker_box.png",
+    "rgb": [
+      20,
+      122,
+      135
+    ],
+    "lab": [
+      "0.53213652864171478996",
+      "-0.07648038606539259154",
+      "-0.04149650347760347469"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Stained Glass",
+    "texture": "cyan_stained_glass.png",
+    "rgb": [
+      76,
+      126,
+      153
+    ],
+    "lab": [
+      "0.56865042611677651951",
+      "-0.04071099100667990855",
+      "-0.05474117847770726408"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Terracotta",
+    "texture": "cyan_terracotta.png",
+    "rgb": [
+      86,
+      91,
+      91
+    ],
+    "lab": [
+      "0.46673066978208949118",
+      "-0.00606090541286313789",
+      "-0.00184597532398850239"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Cyan Wool",
+    "texture": "cyan_wool.png",
+    "rgb": [
+      21,
+      138,
+      145
+    ],
+    "lab": [
+      "0.57817656490377089540",
+      "-0.08773295358202670702",
+      "-0.03443300708615637529"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dark Oak Log",
+    "texture": "dark_oak_log.png",
+    "rgb": [
+      61,
+      47,
+      26
+    ],
+    "lab": [
+      "0.31531420120897463155",
+      "0.00904225390651888783",
+      "0.03823367062091534430"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dark Oak Planks",
+    "texture": "dark_oak_planks.png",
+    "rgb": [
+      68,
+      44,
+      20
+    ],
+    "lab": [
+      "0.31651931604163691114",
+      "0.02235167761297895961",
+      "0.04598445410771317965"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dark Oak Trapdoor",
+    "texture": "dark_oak_trapdoor.png",
+    "rgb": [
+      78,
+      51,
+      24
+    ],
+    "lab": [
+      "0.34684350800509483603",
+      "0.02458789090443017078",
+      "0.05052902506460674181"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dark Prismarine",
+    "texture": "dark_prismarine.png",
+    "rgb": [
+      52,
+      95,
+      78
+    ],
+    "lab": [
+      "0.44871335868582695738",
+      "-0.05460960656895449961",
+      "0.01310693732904155695"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Daylight Detector Inverted Top",
+    "texture": "daylight_detector_inverted_top.png",
+    "rgb": [
+      121,
+      128,
+      140
+    ],
+    "lab": [
+      "0.59805900287629421008",
+      "-0.00303122704439873214",
+      "-0.01983452098144111719"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Daylight Detector Side",
+    "texture": "daylight_detector_side.png",
+    "rgb": [
+      68,
+      56,
+      36
+    ],
+    "lab": [
+      "0.34794701628551949479",
+      "0.00636512326991583999",
+      "0.03565850327984174117"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Daylight Detector Top",
+    "texture": "daylight_detector_top.png",
+    "rgb": [
+      151,
+      137,
+      118
+    ],
+    "lab": [
+      "0.63723974405842787050",
+      "0.00806922137594945355",
+      "0.03121166574186445830"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Dead Brain Coral Block",
+    "texture": "dead_brain_coral_block.png",
+    "rgb": [
+      126,
+      119,
+      116
+    ],
+    "lab": [
+      "0.57458611087747535340",
+      "0.00694196726718215862",
+      "0.00689691070509590443"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dead Bubble Coral Block",
+    "texture": "dead_bubble_coral_block.png",
+    "rgb": [
+      133,
+      125,
+      121
+    ],
+    "lab": [
+      "0.59559102446276079856",
+      "0.00762642890479159341",
+      "0.00862657741862121741"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dead Fire Coral Block",
+    "texture": "dead_fire_coral_block.png",
+    "rgb": [
+      133,
+      125,
+      121
+    ],
+    "lab": [
+      "0.59559102446276079856",
+      "0.00762642890479159341",
+      "0.00862657741862121741"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dead Horn Coral Block",
+    "texture": "dead_horn_coral_block.png",
+    "rgb": [
+      136,
+      129,
+      124
+    ],
+    "lab": [
+      "0.60788484442238932548",
+      "0.00598904076916839667",
+      "0.00962298064167704803"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dead Tube Coral Block",
+    "texture": "dead_tube_coral_block.png",
+    "rgb": [
+      132,
+      125,
+      121
+    ],
+    "lab": [
+      "0.59468032004338589047",
+      "0.00645228923787988240",
+      "0.00825775458425093145"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate",
+    "texture": "deepslate.png",
+    "rgb": [
+      83,
+      83,
+      85
+    ],
+    "lab": [
+      "0.44294577473556950853",
+      "0.00090440646396960922",
+      "-0.00309941907843847009"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Bricks",
+    "texture": "deepslate_bricks.png",
+    "rgb": [
+      74,
+      74,
+      75
+    ],
+    "lab": [
+      "0.40947012247830866238",
+      "0.00046243261568790217",
+      "-0.00157864416284542175"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Coal Ore",
+    "texture": "deepslate_coal_ore.png",
+    "rgb": [
+      81,
+      81,
+      82
+    ],
+    "lab": [
+      "0.43529147087029107510",
+      "0.00045552739478338378",
+      "-0.00155452877875172923"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Copper Ore",
+    "texture": "deepslate_copper_ore.png",
+    "rgb": [
+      101,
+      98,
+      92
+    ],
+    "lab": [
+      "0.49699506327763814939",
+      "0.00095272020257314294",
+      "0.01005943870991410360"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Diamond Ore",
+    "texture": "deepslate_diamond_ore.png",
+    "rgb": [
+      90,
+      120,
+      119
+    ],
+    "lab": [
+      "0.54917151562688093502",
+      "-0.03355865899366777816",
+      "-0.00813990907092232430"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Emerald Ore",
+    "texture": "deepslate_emerald_ore.png",
+    "rgb": [
+      89,
+      120,
+      96
+    ],
+    "lab": [
+      "0.54146944532594110111",
+      "-0.04526031142365430360",
+      "0.02477113381817974691"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Gold Ore",
+    "texture": "deepslate_gold_ore.png",
+    "rgb": [
+      133,
+      114,
+      86
+    ],
+    "lab": [
+      "0.56256694431719433958",
+      "0.01045227937341561275",
+      "0.04593217088447121288"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Iron Ore",
+    "texture": "deepslate_iron_ore.png",
+    "rgb": [
+      117,
+      106,
+      98
+    ],
+    "lab": [
+      "0.53209144332351432372",
+      "0.00974574535024536059",
+      "0.01583026386636254834"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Lapis Ore",
+    "texture": "deepslate_lapis_ore.png",
+    "rgb": [
+      86,
+      94,
+      127
+    ],
+    "lab": [
+      "0.48838849057587624403",
+      "0.00349523083132791124",
+      "-0.05390243034659925048"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Redstone Ore",
+    "texture": "deepslate_redstone_ore.png",
+    "rgb": [
+      121,
+      80,
+      81
+    ],
+    "lab": [
+      "0.47685714143799834419",
+      "0.05280183201305149732",
+      "0.01688948119253613767"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Tiles",
+    "texture": "deepslate_tiles.png",
+    "rgb": [
+      57,
+      57,
+      57
+    ],
+    "lab": [
+      "0.34458381826887612975",
+      "0.00000000002789515841",
+      "0.00000001284398548629"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Deepslate Top",
+    "texture": "deepslate_top.png",
+    "rgb": [
+      89,
+      89,
+      91
+    ],
+    "lab": [
+      "0.46468410976519303190",
+      "0.00089395762702082493",
+      "-0.00306206809781178757"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Diamond Block",
+    "texture": "diamond_block.png",
+    "rgb": [
+      113,
+      238,
+      228
+    ],
+    "lab": [
+      "0.87521049538887418784",
+      "-0.11163173014497013158",
+      "-0.01627008768426896346"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Diamond Ore",
+    "texture": "diamond_ore.png",
+    "rgb": [
+      126,
+      146,
+      145
+    ],
+    "lab": [
+      "0.64387000598283694597",
+      "-0.02233560031792219958",
+      "-0.00511786092794686009"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Diorite",
+    "texture": "diorite.png",
+    "rgb": [
+      192,
+      192,
+      193
+    ],
+    "lab": [
+      "0.80809039180551578418",
+      "0.00039088875187703875",
+      "-0.00133079362646648658"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dirt",
+    "texture": "dirt.png",
+    "rgb": [
+      138,
+      99,
+      69
+    ],
+    "lab": [
+      "0.53290698536602187918",
+      "0.03510498352444324510",
+      "0.05678851132308337935"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dirt Path Top",
+    "texture": "dirt_path_top.png",
+    "rgb": [
+      148,
+      122,
+      65
+    ],
+    "lab": [
+      "0.59162343869814337793",
+      "0.00672330017521066692",
+      "0.08187996820346810090"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Dispenser Front",
+    "texture": "dispenser_front.png",
+    "rgb": [
+      132,
+      132,
+      132
+    ],
+    "lab": [
+      "0.61334899364611150663",
+      "0.00000000004965255984",
+      "0.00000002286191380652"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dried Kelp Bottom",
+    "texture": "dried_kelp_bottom.png",
+    "rgb": [
+      64,
+      69,
+      51
+    ],
+    "lab": [
+      "0.38017754641091688894",
+      "-0.01526592899164205819",
+      "0.02596488368825383697"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Dried Kelp Side",
+    "texture": "dried_kelp_side.png",
+    "rgb": [
+      47,
+      56,
+      39
+    ],
+    "lab": [
+      "0.32684493518558249692",
+      "-0.02048777079748251295",
+      "0.02384503677836916080"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Dried Kelp Top",
+    "texture": "dried_kelp_top.png",
+    "rgb": [
+      64,
+      69,
+      51
+    ],
+    "lab": [
+      "0.38017754641091688894",
+      "-0.01526592899164205819",
+      "0.02596488368825383697"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Dripstone Block",
+    "texture": "dripstone_block.png",
+    "rgb": [
+      136,
+      110,
+      93
+    ],
+    "lab": [
+      "0.55875370606859975364",
+      "0.02403077538830530879",
+      "0.03413476137289028767"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Emerald Block",
+    "texture": "emerald_block.png",
+    "rgb": [
+      56,
+      206,
+      99
+    ],
+    "lab": [
+      "0.75074689567123487066",
+      "-0.16482295540680741430",
+      "0.10109039638350325596"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Emerald Ore",
+    "texture": "emerald_ore.png",
+    "rgb": [
+      118,
+      142,
+      122
+    ],
+    "lab": [
+      "0.62198337244026957737",
+      "-0.03501565566386904971",
+      "0.02030509717843514972"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "End Stone",
+    "texture": "end_stone.png",
+    "rgb": [
+      220,
+      224,
+      159
+    ],
+    "lab": [
+      "0.88817692132575343233",
+      "-0.03013005186318501449",
+      "0.07869862286095830051"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "End Stone Bricks",
+    "texture": "end_stone_bricks.png",
+    "rgb": [
+      219,
+      225,
+      163
+    ],
+    "lab": [
+      "0.89023313403480108796",
+      "-0.03099439413611637661",
+      "0.07468819076501564957"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Exposed Copper",
+    "texture": "exposed_copper.png",
+    "rgb": [
+      163,
+      126,
+      105
+    ],
+    "lab": [
+      "0.62335076917598353230",
+      "0.03487254762706365474",
+      "0.04296820008233886989"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Exposed Cut Copper",
+    "texture": "exposed_cut_copper.png",
+    "rgb": [
+      158,
+      122,
+      102
+    ],
+    "lab": [
+      "0.60921819701882462539",
+      "0.03431317966080496551",
+      "0.04148078187493836610"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Farmland",
+    "texture": "farmland.png",
+    "rgb": [
+      147,
+      105,
+      72
+    ],
+    "lab": [
+      "0.55625139827689229488",
+      "0.03714865720087753842",
+      "0.06124123716392754213"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Farmland Moist",
+    "texture": "farmland_moist.png",
+    "rgb": [
+      84,
+      46,
+      18
+    ],
+    "lab": [
+      "0.34410225741432998170",
+      "0.04017921160391832447",
+      "0.05582962833814411607"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Fire Coral Block",
+    "texture": "fire_coral_block.png",
+    "rgb": [
+      167,
+      36,
+      47
+    ],
+    "lab": [
+      "0.47964516718749561353",
+      "0.15396111736808099080",
+      "0.06273146417378111517"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Flowering Azalea Top",
+    "texture": "flowering_azalea_top.png",
+    "rgb": [
+      116,
+      123,
+      84
+    ],
+    "lab": [
+      "0.56660528752343153336",
+      "-0.02558160685658567024",
+      "0.05121690420558994150"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Frosted Ice 3",
+    "texture": "frosted_ice_3.png",
+    "rgb": [
+      137,
+      178,
+      252
+    ],
+    "lab": [
+      "0.76319903570622882327",
+      "-0.01662489364429503569",
+      "-0.11475022695699232944"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Furnace Front",
+    "texture": "furnace_front.png",
+    "rgb": [
+      108,
+      108,
+      108
+    ],
+    "lab": [
+      "0.53128179943386566464",
+      "0.00000000004300879097",
+      "0.00000001980294878079"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Furnace Side",
+    "texture": "furnace_side.png",
+    "rgb": [
+      127,
+      127,
+      127
+    ],
+    "lab": [
+      "0.59648945692547994391",
+      "0.00000000004828737410",
+      "0.00000002223349304664"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Furnace Top",
+    "texture": "furnace_top.png",
+    "rgb": [
+      114,
+      113,
+      113
+    ],
+    "lab": [
+      "0.54950995810988056967",
+      "0.00117807352072735183",
+      "0.00036458654357102160"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gilded Blackstone",
+    "texture": "gilded_blackstone.png",
+    "rgb": [
+      72,
+      55,
+      44
+    ],
+    "lab": [
+      "0.35228049806025757418",
+      "0.01777308192664581177",
+      "0.02481549255375914420"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Glowstone",
+    "texture": "glowstone.png",
+    "rgb": [
+      184,
+      150,
+      110
+    ],
+    "lab": [
+      "0.69464693037893354699",
+      "0.02231201697748458335",
+      "0.06434680047452240315"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gold Block",
+    "texture": "gold_block.png",
+    "rgb": [
+      247,
+      210,
+      69
+    ],
+    "lab": [
+      "0.87164533900551000034",
+      "-0.01049289933379099482",
+      "0.15661955952648531909"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gold Ore",
+    "texture": "gold_ore.png",
+    "rgb": [
+      153,
+      138,
+      116
+    ],
+    "lab": [
+      "0.64074931657596634338",
+      "0.00793213890878802230",
+      "0.03552605875196573892"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Granite",
+    "texture": "granite.png",
+    "rgb": [
+      151,
+      105,
+      88
+    ],
+    "lab": [
+      "0.56424849929364939705",
+      "0.04889013738535522013",
+      "0.04267738772397711156"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gravel",
+    "texture": "gravel.png",
+    "rgb": [
+      133,
+      128,
+      128
+    ],
+    "lab": [
+      "0.60424296554298118078",
+      "0.00578320589084585501",
+      "0.00180395286492346374"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Concrete",
+    "texture": "gray_concrete.png",
+    "rgb": [
+      54,
+      57,
+      61
+    ],
+    "lab": [
+      "0.34320682952557479695",
+      "-0.00202202728607303595",
+      "-0.00784615332375698804"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Concrete Powder",
+    "texture": "gray_concrete_powder.png",
+    "rgb": [
+      77,
+      81,
+      85
+    ],
+    "lab": [
+      "0.43272176465727330008",
+      "-0.00313687334641463145",
+      "-0.00777247853929913246"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Glazed Terracotta",
+    "texture": "gray_glazed_terracotta.png",
+    "rgb": [
+      91,
+      97,
+      100
+    ],
+    "lab": [
+      "0.48836217105232643254",
+      "-0.00585521866441149341",
+      "-0.00673518594650174274"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Shulker Box",
+    "texture": "gray_shulker_box.png",
+    "rgb": [
+      55,
+      59,
+      63
+    ],
+    "lab": [
+      "0.35002234791581443574",
+      "-0.00329863035932786985",
+      "-0.00819759425269850350"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Stained Glass",
+    "texture": "gray_stained_glass.png",
+    "rgb": [
+      76,
+      76,
+      76
+    ],
+    "lab": [
+      "0.41653968967931498391",
+      "0.00000000003372005453",
+      "0.00000001552606199162"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Terracotta",
+    "texture": "gray_terracotta.png",
+    "rgb": [
+      57,
+      42,
+      35
+    ],
+    "lab": [
+      "0.30019942524910830928",
+      "0.01775585061116675967",
+      "0.01853092657135810284"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Gray Wool",
+    "texture": "gray_wool.png",
+    "rgb": [
+      62,
+      68,
+      71
+    ],
+    "lab": [
+      "0.38221043071450033768",
+      "-0.00619178402972717090",
+      "-0.00714643453743302182"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Concrete",
+    "texture": "green_concrete.png",
+    "rgb": [
+      73,
+      91,
+      36
+    ],
+    "lab": [
+      "0.44283981195223998117",
+      "-0.04713137920128693259",
+      "0.06778015688759059243"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Concrete Powder",
+    "texture": "green_concrete_powder.png",
+    "rgb": [
+      97,
+      119,
+      44
+    ],
+    "lab": [
+      "0.53498252456722195092",
+      "-0.05797175469187593189",
+      "0.08686757156431162974"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Glazed Terracotta",
+    "texture": "green_glazed_terracotta.png",
+    "rgb": [
+      127,
+      149,
+      99
+    ],
+    "lab": [
+      "0.63960209052461436396",
+      "-0.04606415600559038426",
+      "0.05962560269890748721"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Shulker Box",
+    "texture": "green_shulker_box.png",
+    "rgb": [
+      79,
+      101,
+      31
+    ],
+    "lab": [
+      "0.47336844692822516167",
+      "-0.05682177185578246581",
+      "0.08109167361900171400"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Stained Glass",
+    "texture": "green_stained_glass.png",
+    "rgb": [
+      102,
+      126,
+      50
+    ],
+    "lab": [
+      "0.55708677367504844113",
+      "-0.06030519201932504902",
+      "0.08776209675907170604"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Terracotta",
+    "texture": "green_terracotta.png",
+    "rgb": [
+      76,
+      83,
+      42
+    ],
+    "lab": [
+      "0.42539273158542467712",
+      "-0.02823486483444143103",
+      "0.05524261234145377841"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Green Wool",
+    "texture": "green_wool.png",
+    "rgb": [
+      85,
+      110,
+      27
+    ],
+    "lab": [
+      "0.50115046743129498807",
+      "-0.06401963313849509674",
+      "0.09129167135198529293"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Hay Block Side",
+    "texture": "hay_block_side.png",
+    "rgb": [
+      168,
+      141,
+      38
+    ],
+    "lab": [
+      "0.65031328509235664104",
+      "-0.00738339430033188582",
+      "0.12020586956154416525"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Hay Block Top",
+    "texture": "hay_block_top.png",
+    "rgb": [
+      167,
+      140,
+      12
+    ],
+    "lab": [
+      "0.64599582090822427194",
+      "-0.01118071302588366511",
+      "0.12961087340803850720"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Honey Block Bottom",
+    "texture": "honey_block_bottom.png",
+    "rgb": [
+      241,
+      148,
+      21
+    ],
+    "lab": [
+      "0.74641925122880814492",
+      "0.06748331945923280450",
+      "0.14788208310069722584"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Honey Block Side",
+    "texture": "honey_block_side.png",
+    "rgb": [
+      250,
+      190,
+      70
+    ],
+    "lab": [
+      "0.83585026623624503195",
+      "0.02288994865731891482",
+      "0.14636085395684572674"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Honey Block Top",
+    "texture": "honey_block_top.png",
+    "rgb": [
+      251,
+      186,
+      64
+    ],
+    "lab": [
+      "0.82890627925613769023",
+      "0.02863742542883196407",
+      "0.14830846055975122066"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Honeycomb Block",
+    "texture": "honeycomb_block.png",
+    "rgb": [
+      230,
+      154,
+      50
+    ],
+    "lab": [
+      "0.74521865998190228719",
+      "0.05003836748675116741",
+      "0.13555920090145834322"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Horn Coral Block",
+    "texture": "horn_coral_block.png",
+    "rgb": [
+      216,
+      202,
+      66
+    ],
+    "lab": [
+      "0.82672370509036252617",
+      "-0.03504788177876128064",
+      "0.14751242294604449690"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Ice",
+    "texture": "ice.png",
+    "rgb": [
+      146,
+      184,
+      253
+    ],
+    "lab": [
+      "0.78142145385018579873",
+      "-0.01504294419156798623",
+      "-0.10641914608733926695"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Iron Block",
+    "texture": "iron_block.png",
+    "rgb": [
+      221,
+      220,
+      220
+    ],
+    "lab": [
+      "0.89527038684291027071",
+      "0.00104197251422055714",
+      "0.00032214615272196934"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Iron Ore",
+    "texture": "iron_ore.png",
+    "rgb": [
+      139,
+      130,
+      124
+    ],
+    "lab": [
+      "0.61276878115213018194",
+      "0.00788846184446662102",
+      "0.01174605745260953737"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Jack O Lantern",
+    "texture": "jack_o_lantern.png",
+    "rgb": [
+      218,
+      163,
+      72
+    ],
+    "lab": [
+      "0.75046223671285450241",
+      "0.02760244411417478450",
+      "0.12193746815655565063"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Jungle Log",
+    "texture": "jungle_log.png",
+    "rgb": [
+      87,
+      69,
+      25
+    ],
+    "lab": [
+      "0.39983103581879564370",
+      "0.00385686440225635474",
+      "0.06528867054760323363"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Jungle Planks",
+    "texture": "jungle_planks.png",
+    "rgb": [
+      163,
+      117,
+      83
+    ],
+    "lab": [
+      "0.60083567770546908449",
+      "0.04079166068150200108",
+      "0.06328823494303320585"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lapis Block",
+    "texture": "lapis_block.png",
+    "rgb": [
+      31,
+      68,
+      140
+    ],
+    "lab": [
+      "0.40301525876108224011",
+      "-0.01779484039561535225",
+      "-0.12607998329913611135"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lapis Ore",
+    "texture": "lapis_ore.png",
+    "rgb": [
+      115,
+      121,
+      147
+    ],
+    "lab": [
+      "0.58045054214446767382",
+      "0.00344679554775090269",
+      "-0.04039721425367287511"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Concrete",
+    "texture": "light_blue_concrete.png",
+    "rgb": [
+      35,
+      137,
+      198
+    ],
+    "lab": [
+      "0.60293952219142754601",
+      "-0.06204593306878808390",
+      "-0.11223742080858478687"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Concrete Powder",
+    "texture": "light_blue_concrete_powder.png",
+    "rgb": [
+      75,
+      181,
+      213
+    ],
+    "lab": [
+      "0.72443190734672568976",
+      "-0.08011183056794990431",
+      "-0.07005609392330192087"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Glazed Terracotta",
+    "texture": "light_blue_glazed_terracotta.png",
+    "rgb": [
+      128,
+      180,
+      212
+    ],
+    "lab": [
+      "0.74507680853477997740",
+      "-0.04004542290573465113",
+      "-0.05944622177458547263"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Shulker Box",
+    "texture": "light_blue_shulker_box.png",
+    "rgb": [
+      50,
+      165,
+      212
+    ],
+    "lab": [
+      "0.67949086956628090839",
+      "-0.07704966831009696371",
+      "-0.09260658253861575595"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Stained Glass",
+    "texture": "light_blue_stained_glass.png",
+    "rgb": [
+      102,
+      153,
+      216
+    ],
+    "lab": [
+      "0.67329363331940750292",
+      "-0.02937830005514446841",
+      "-0.10484909297351885371"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Terracotta",
+    "texture": "light_blue_terracotta.png",
+    "rgb": [
+      113,
+      108,
+      137
+    ],
+    "lab": [
+      "0.54648605715719611453",
+      "0.01740699485785573986",
+      "-0.04150825848170386356"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Blue Wool",
+    "texture": "light_blue_wool.png",
+    "rgb": [
+      59,
+      176,
+      217
+    ],
+    "lab": [
+      "0.70987295140642803215",
+      "-0.08179306016982729188",
+      "-0.08415010237471054477"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Concrete",
+    "texture": "light_gray_concrete.png",
+    "rgb": [
+      125,
+      125,
+      115
+    ],
+    "lab": [
+      "0.58668363012222601860",
+      "-0.00431794664068552159",
+      "0.01425671900817182536"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Concrete Powder",
+    "texture": "light_gray_concrete_powder.png",
+    "rgb": [
+      155,
+      155,
+      148
+    ],
+    "lab": [
+      "0.68740794852171449580",
+      "-0.00288449774049154284",
+      "0.00963817894629925842"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Glazed Terracotta",
+    "texture": "light_gray_glazed_terracotta.png",
+    "rgb": [
+      159,
+      171,
+      173
+    ],
+    "lab": [
+      "0.73236042604452300520",
+      "-0.01213953941147205562",
+      "-0.00666135323968730653"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Shulker Box",
+    "texture": "light_gray_shulker_box.png",
+    "rgb": [
+      125,
+      125,
+      117
+    ],
+    "lab": [
+      "0.58726634652477560650",
+      "-0.00344223811731408924",
+      "0.01142897737319192863"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Stained Glass",
+    "texture": "light_gray_stained_glass.png",
+    "rgb": [
+      153,
+      153,
+      153
+    ],
+    "lab": [
+      "0.68295339685617717507",
+      "0.00000000005528699720",
+      "0.00000002545634192330"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Terracotta",
+    "texture": "light_gray_terracotta.png",
+    "rgb": [
+      135,
+      106,
+      97
+    ],
+    "lab": [
+      "0.55033789419441114799",
+      "0.03141930987988314494",
+      "0.02449211338730267196"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Light Gray Wool",
+    "texture": "light_gray_wool.png",
+    "rgb": [
+      142,
+      142,
+      135
+    ],
+    "lab": [
+      "0.64461859125609854981",
+      "-0.00293370581441571021",
+      "0.00978921079573646935"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Concrete",
+    "texture": "lime_concrete.png",
+    "rgb": [
+      94,
+      168,
+      24
+    ],
+    "lab": [
+      "0.65775092004487778485",
+      "-0.12696710656194354350",
+      "0.12996430711855511131"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Concrete Powder",
+    "texture": "lime_concrete_powder.png",
+    "rgb": [
+      125,
+      189,
+      42
+    ],
+    "lab": [
+      "0.72822953141725310644",
+      "-0.12000476995934722391",
+      "0.13821310859843333185"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Glazed Terracotta",
+    "texture": "lime_glazed_terracotta.png",
+    "rgb": [
+      177,
+      200,
+      78
+    ],
+    "lab": [
+      "0.79148673410052672317",
+      "-0.07219416619660634638",
+      "0.13037603387191842863"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Shulker Box",
+    "texture": "lime_shulker_box.png",
+    "rgb": [
+      100,
+      173,
+      23
+    ],
+    "lab": [
+      "0.67360198269104520907",
+      "-0.12749741239256848213",
+      "0.13380615273531831777"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Stained Glass",
+    "texture": "lime_stained_glass.png",
+    "rgb": [
+      126,
+      203,
+      24
+    ],
+    "lab": [
+      "0.76250822290518172064",
+      "-0.13768421325075586026",
+      "0.15293105090266079227"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Terracotta",
+    "texture": "lime_terracotta.png",
+    "rgb": [
+      103,
+      117,
+      52
+    ],
+    "lab": [
+      "0.53574370742964583236",
+      "-0.04514440061851199282",
+      "0.07921934456793100487"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lime Wool",
+    "texture": "lime_wool.png",
+    "rgb": [
+      112,
+      185,
+      26
+    ],
+    "lab": [
+      "0.71038850265674702289",
+      "-0.12990630191533372728",
+      "0.14090920027750447607"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lodestone Side",
+    "texture": "lodestone_side.png",
+    "rgb": [
+      125,
+      125,
+      128
+    ],
+    "lab": [
+      "0.59067707311582084984",
+      "0.00126205978171439748",
+      "-0.00432685819840811225"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Lodestone Top",
+    "texture": "lodestone_top.png",
+    "rgb": [
+      149,
+      151,
+      155
+    ],
+    "lab": [
+      "0.67599419333474353166",
+      "-0.00060130469339786385",
+      "-0.00626846844052764141"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Loom Bottom",
+    "texture": "loom_bottom.png",
+    "rgb": [
+      79,
+      62,
+      37
+    ],
+    "lab": [
+      "0.37561461241646759701",
+      "0.01070583541566455521",
+      "0.04393990325354812931"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Loom Front",
+    "texture": "loom_front.png",
+    "rgb": [
+      155,
+      125,
+      90
+    ],
+    "lab": [
+      "0.60959107619538377421",
+      "0.02051124068906456932",
+      "0.05814818108103680938"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Loom Side",
+    "texture": "loom_side.png",
+    "rgb": [
+      150,
+      109,
+      75
+    ],
+    "lab": [
+      "0.56837198310315040217",
+      "0.03521591469861365398",
+      "0.06183600274076178627"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Loom Top",
+    "texture": "loom_top.png",
+    "rgb": [
+      154,
+      131,
+      108
+    ],
+    "lab": [
+      "0.62500629160881238100",
+      "0.01707968132449899645",
+      "0.04001959147751560364"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Magenta Concrete",
+    "texture": "magenta_concrete.png",
+    "rgb": [
+      169,
+      48,
+      159
+    ],
+    "lab": [
+      "0.53338272699228128637",
+      "0.17432159636439736872",
+      "-0.09440117389404190096"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Concrete Powder",
+    "texture": "magenta_concrete_powder.png",
+    "rgb": [
+      193,
+      84,
+      184
+    ],
+    "lab": [
+      "0.61926490473257578273",
+      "0.16022456147495112155",
+      "-0.08948859402326148071"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Glazed Terracotta",
+    "texture": "magenta_glazed_terracotta.png",
+    "rgb": [
+      210,
+      111,
+      193
+    ],
+    "lab": [
+      "0.68160190678450593982",
+      "0.14327049374168998597",
+      "-0.07003495092324529825"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Shulker Box",
+    "texture": "magenta_shulker_box.png",
+    "rgb": [
+      174,
+      54,
+      164
+    ],
+    "lab": [
+      "0.54909344006256211035",
+      "0.17366639382557313986",
+      "-0.09441442767224761390"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Stained Glass",
+    "texture": "magenta_stained_glass.png",
+    "rgb": [
+      178,
+      76,
+      216
+    ],
+    "lab": [
+      "0.60780612001934741784",
+      "0.15432796919387675727",
+      "-0.15144786414338634595"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Terracotta",
+    "texture": "magenta_terracotta.png",
+    "rgb": [
+      149,
+      88,
+      108
+    ],
+    "lab": [
+      "0.53563176958603464506",
+      "0.08408624424177685297",
+      "-0.00112097429996710352"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magenta Wool",
+    "texture": "magenta_wool.png",
+    "rgb": [
+      190,
+      70,
+      180
+    ],
+    "lab": [
+      "0.59688657486313068112",
+      "0.17400895949234401749",
+      "-0.09569083893708307809"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Magma",
+    "texture": "magma.png",
+    "rgb": [
+      162,
+      76,
+      34
+    ],
+    "lab": [
+      "0.51847035185628265186",
+      "0.09058445459575389935",
+      "0.08815356532511881005"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mangrove Log",
+    "texture": "mangrove_log.png",
+    "rgb": [
+      84,
+      67,
+      41
+    ],
+    "lab": [
+      "0.39405473943037772067",
+      "0.01004131535878530213",
+      "0.04499677592810918947"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mangrove Planks",
+    "texture": "mangrove_planks.png",
+    "rgb": [
+      118,
+      56,
+      49
+    ],
+    "lab": [
+      "0.42027748632330697021",
+      "0.07810545810201630079",
+      "0.04159825541648959346"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Melon Side",
+    "texture": "melon_side.png",
+    "rgb": [
+      124,
+      148,
+      30
+    ],
+    "lab": [
+      "0.62636137370643873989",
+      "-0.07194463929716071737",
+      "0.11964769711045569744"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Melon Top",
+    "texture": "melon_top.png",
+    "rgb": [
+      119,
+      146,
+      30
+    ],
+    "lab": [
+      "0.61772038728454226053",
+      "-0.07479884059712796351",
+      "0.11767620883307572388"
+    ],
+    "sides": [
+      "top",
+      "bottom"
+    ]
+  },
+  {
+    "name": "Moss Block",
+    "texture": "moss_block.png",
+    "rgb": [
+      90,
+      111,
+      45
+    ],
+    "lab": [
+      "0.50937157245023656493",
+      "-0.05389595889890985703",
+      "0.07851119366046716008"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mossy Cobblestone",
+    "texture": "mossy_cobblestone.png",
+    "rgb": [
+      113,
+      121,
+      102
+    ],
+    "lab": [
+      "0.56369611443707290377",
+      "-0.01765935325005157930",
+      "0.02432817925753222310"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mossy Stone Bricks",
+    "texture": "mossy_stone_bricks.png",
+    "rgb": [
+      117,
+      122,
+      110
+    ],
+    "lab": [
+      "0.57158659187054672302",
+      "-0.01102297820949060814",
+      "0.01544809027985777350"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mud",
+    "texture": "mud.png",
+    "rgb": [
+      60,
+      58,
+      60
+    ],
+    "lab": [
+      "0.35118461481978852090",
+      "0.00360094123351120676",
+      "-0.00245921717285596531"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mud Bricks",
+    "texture": "mud_bricks.png",
+    "rgb": [
+      139,
+      105,
+      79
+    ],
+    "lab": [
+      "0.54839832371322316806",
+      "0.03021194781729380496",
+      "0.04946248623183940873"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Muddy Mangrove Roots Side",
+    "texture": "muddy_mangrove_roots_side.png",
+    "rgb": [
+      69,
+      59,
+      49
+    ],
+    "lab": [
+      "0.35964758820375886117",
+      "0.00849308892903352652",
+      "0.02004774432552819396"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Muddy Mangrove Roots Top",
+    "texture": "muddy_mangrove_roots_top.png",
+    "rgb": [
+      71,
+      59,
+      46
+    ],
+    "lab": [
+      "0.36110230724757574894",
+      "0.00973479258535381309",
+      "0.02541587260242683666"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Mushroom Block Inside",
+    "texture": "mushroom_block_inside.png",
+    "rgb": [
+      201,
+      170,
+      120
+    ],
+    "lab": [
+      "0.75367115528272976555",
+      "0.01420545217734536791",
+      "0.07413768373464546535"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mushroom Stem",
+    "texture": "mushroom_stem.png",
+    "rgb": [
+      203,
+      196,
+      185
+    ],
+    "lab": [
+      "0.82290695717540185417",
+      "0.00315537117567815661",
+      "0.01676085492136558663"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Mycelium Top",
+    "texture": "mycelium_top.png",
+    "rgb": [
+      111,
+      98,
+      101
+    ],
+    "lab": [
+      "0.50947316736225833900",
+      "0.01720776789769468129",
+      "0.00061752001006049051"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Nether Bricks",
+    "texture": "nether_bricks.png",
+    "rgb": [
+      46,
+      22,
+      27
+    ],
+    "lab": [
+      "0.23607968537510867768",
+      "0.03915733148212321990",
+      "0.00491877195527554156"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Nether Gold Ore",
+    "texture": "nether_gold_ore.png",
+    "rgb": [
+      127,
+      78,
+      48
+    ],
+    "lab": [
+      "0.47336416209726772664",
+      "0.04963827824931468791",
+      "0.06195286069591909861"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Nether Quartz Ore",
+    "texture": "nether_quartz_ore.png",
+    "rgb": [
+      126,
+      89,
+      83
+    ],
+    "lab": [
+      "0.50149324953890284107",
+      "0.04386754221077404647",
+      "0.02460325632923154870"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Nether Wart Block",
+    "texture": "nether_wart_block.png",
+    "rgb": [
+      116,
+      3,
+      2
+    ],
+    "lab": [
+      "0.35282544044993424670",
+      "0.12423129373980115742",
+      "0.06922723692398535800"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Netherite Block",
+    "texture": "netherite_block.png",
+    "rgb": [
+      68,
+      63,
+      66
+    ],
+    "lab": [
+      "0.37375925388449882103",
+      "0.00796060552712629654",
+      "-0.00278170876299693726"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Netherrack",
+    "texture": "netherrack.png",
+    "rgb": [
+      99,
+      40,
+      40
+    ],
+    "lab": [
+      "0.36125505596414320131",
+      "0.07948190096173840535",
+      "0.03265332542754439960"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Note Block",
+    "texture": "note_block.png",
+    "rgb": [
+      97,
+      62,
+      43
+    ],
+    "lab": [
+      "0.39981956598231738198",
+      "0.03787746228264660120",
+      "0.04360194001918182849"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Oak Log",
+    "texture": "oak_log.png",
+    "rgb": [
+      113,
+      88,
+      52
+    ],
+    "lab": [
+      "0.47733519730652157476",
+      "0.01533205664907022481",
+      "0.05929167925208117529"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Oak Planks",
+    "texture": "oak_planks.png",
+    "rgb": [
+      165,
+      133,
+      80
+    ],
+    "lab": [
+      "0.63495281713110340860",
+      "0.01522273108549299092",
+      "0.07932847493132322292"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Observer Side",
+    "texture": "observer_side.png",
+    "rgb": [
+      76,
+      75,
+      75
+    ],
+    "lab": [
+      "0.41378343430335423614",
+      "0.00126552336092367046",
+      "0.00039202485970529777"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Observer Top",
+    "texture": "observer_top.png",
+    "rgb": [
+      106,
+      106,
+      106
+    ],
+    "lab": [
+      "0.52430410357669798849",
+      "0.00000000004244390950",
+      "0.00000001954286282801"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Obsidian",
+    "texture": "obsidian.png",
+    "rgb": [
+      21,
+      13,
+      34
+    ],
+    "lab": [
+      "0.18204981612871704022",
+      "0.02122469571473085959",
+      "-0.03715410204508623471"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Ochre Froglight Side",
+    "texture": "ochre_froglight_side.png",
+    "rgb": [
+      245,
+      235,
+      188
+    ],
+    "lab": [
+      "0.93639330013702337663",
+      "-0.00796822417197246002",
+      "0.06130433307511407026"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Ochre Froglight Top",
+    "texture": "ochre_froglight_top.png",
+    "rgb": [
+      250,
+      245,
+      210
+    ],
+    "lab": [
+      "0.96509683258812328788",
+      "-0.00835901345262718420",
+      "0.04508786707646639247"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Orange Concrete",
+    "texture": "orange_concrete.png",
+    "rgb": [
+      224,
+      97,
+      0
+    ],
+    "lab": [
+      "0.64211466711971110222",
+      "0.12275939513999528652",
+      "0.12988914248040145383"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Concrete Powder",
+    "texture": "orange_concrete_powder.png",
+    "rgb": [
+      227,
+      132,
+      34
+    ],
+    "lab": [
+      "0.70179455320444894539",
+      "0.07759969363875085513",
+      "0.13320108231519756092"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Glazed Terracotta",
+    "texture": "orange_glazed_terracotta.png",
+    "rgb": [
+      193,
+      154,
+      127
+    ],
+    "lab": [
+      "0.71528621268390835120",
+      "0.03336339798988080529",
+      "0.04995532539202351963"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Shulker Box",
+    "texture": "orange_shulker_box.png",
+    "rgb": [
+      234,
+      107,
+      9
+    ],
+    "lab": [
+      "0.67130676078799456086",
+      "0.11998539371005512155",
+      "0.13407595132427813089"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Stained Glass",
+    "texture": "orange_stained_glass.png",
+    "rgb": [
+      216,
+      126,
+      50
+    ],
+    "lab": [
+      "0.67839265662324166328",
+      "0.07768894851306429317",
+      "0.11831480814271405633"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Terracotta",
+    "texture": "orange_terracotta.png",
+    "rgb": [
+      161,
+      83,
+      37
+    ],
+    "lab": [
+      "0.52874054886896149075",
+      "0.07891594994764128401",
+      "0.08867860478072797648"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Orange Wool",
+    "texture": "orange_wool.png",
+    "rgb": [
+      240,
+      119,
+      22
+    ],
+    "lab": [
+      "0.69793959653399484377",
+      "0.11030603677447056721",
+      "0.13657624374694699032"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Oxidized Copper",
+    "texture": "oxidized_copper.png",
+    "rgb": [
+      83,
+      164,
+      134
+    ],
+    "lab": [
+      "0.65872316999574842544",
+      "-0.09009507162810742598",
+      "0.02057345424904377662"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Oxidized Cut Copper",
+    "texture": "oxidized_cut_copper.png",
+    "rgb": [
+      81,
+      156,
+      128
+    ],
+    "lab": [
+      "0.63614546198902310881",
+      "-0.08479295325368563230",
+      "0.01932983171810342959"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Packed Ice",
+    "texture": "packed_ice.png",
+    "rgb": [
+      142,
+      180,
+      250
+    ],
+    "lab": [
+      "0.76938867959986267930",
+      "-0.01485184923317389716",
+      "-0.10820077717987264254"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Packed Mud",
+    "texture": "packed_mud.png",
+    "rgb": [
+      143,
+      107,
+      80
+    ],
+    "lab": [
+      "0.55725497062590312325",
+      "0.03214194288162247615",
+      "0.05139991698110629725"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pearlescent Froglight Side",
+    "texture": "pearlescent_froglight_side.png",
+    "rgb": [
+      236,
+      227,
+      229
+    ],
+    "lab": [
+      "0.92348152446229148094",
+      "0.01012030304907474143",
+      "0.00035327920300642912"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pearlescent Froglight Top",
+    "texture": "pearlescent_froglight_top.png",
+    "rgb": [
+      246,
+      241,
+      240
+    ],
+    "lab": [
+      "0.96172983362499786519",
+      "0.00475849855297977298",
+      "0.00286531088456509764"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Pink Concrete",
+    "texture": "pink_concrete.png",
+    "rgb": [
+      213,
+      101,
+      142
+    ],
+    "lab": [
+      "0.65245377292939288338",
+      "0.14689062161794391725",
+      "-0.00284349745188128278"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Concrete Powder",
+    "texture": "pink_concrete_powder.png",
+    "rgb": [
+      229,
+      154,
+      181
+    ],
+    "lab": [
+      "0.76773059291337053534",
+      "0.09528745406987743083",
+      "-0.00608252260855746130"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Glazed Terracotta",
+    "texture": "pink_glazed_terracotta.png",
+    "rgb": [
+      235,
+      158,
+      183
+    ],
+    "lab": [
+      "0.78175806570418293617",
+      "0.09640391512365664717",
+      "-0.00252480664976761915"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Shulker Box",
+    "texture": "pink_shulker_box.png",
+    "rgb": [
+      231,
+      123,
+      158
+    ],
+    "lab": [
+      "0.71319580676632288174",
+      "0.13790753527015209290",
+      "0.00131546362771539638"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Stained Glass",
+    "texture": "pink_stained_glass.png",
+    "rgb": [
+      242,
+      126,
+      165
+    ],
+    "lab": [
+      "0.73384076647495621870",
+      "0.14737806893924815244",
+      "0.00002201658908485005"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Terracotta",
+    "texture": "pink_terracotta.png",
+    "rgb": [
+      161,
+      78,
+      78
+    ],
+    "lab": [
+      "0.52713721520919309960",
+      "0.10271460234701307312",
+      "0.04053785823881123074"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pink Wool",
+    "texture": "pink_wool.png",
+    "rgb": [
+      238,
+      143,
+      173
+    ],
+    "lab": [
+      "0.75735591456961481871",
+      "0.11966921258717472254",
+      "0.00004834396958730558"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Piston Side",
+    "texture": "piston_side.png",
+    "rgb": [
+      118,
+      110,
+      102
+    ],
+    "lab": [
+      "0.54309154604742693184",
+      "0.00605080520299369762",
+      "0.01459753934252239205"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Piston Top",
+    "texture": "piston_top.png",
+    "rgb": [
+      159,
+      135,
+      101
+    ],
+    "lab": [
+      "0.63682578427876157523",
+      "0.01344064075586137719",
+      "0.05428693765034087182"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Piston Top Sticky",
+    "texture": "piston_top_sticky.png",
+    "rgb": [
+      133,
+      158,
+      107
+    ],
+    "lab": [
+      "0.66673138397022191359",
+      "-0.04921497775673894237",
+      "0.05967153405359426621"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Podzol Top",
+    "texture": "podzol_top.png",
+    "rgb": [
+      94,
+      64,
+      24
+    ],
+    "lab": [
+      "0.39712950422883164237",
+      "0.02233381251804270051",
+      "0.06513877833395537165"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Polished Andesite",
+    "texture": "polished_andesite.png",
+    "rgb": [
+      134,
+      136,
+      135
+    ],
+    "lab": [
+      "0.62475005689232221417",
+      "-0.00269007613805966050",
+      "0.00071948743250582758"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Basalt Side",
+    "texture": "polished_basalt_side.png",
+    "rgb": [
+      92,
+      91,
+      94
+    ],
+    "lab": [
+      "0.47313323931503376008",
+      "0.00255410060999111677",
+      "-0.00419649686959550072"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Basalt Top",
+    "texture": "polished_basalt_top.png",
+    "rgb": [
+      102,
+      102,
+      103
+    ],
+    "lab": [
+      "0.51060909216879579731",
+      "0.00043795217699982292",
+      "-0.00149336597582727659"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Blackstone",
+    "texture": "polished_blackstone.png",
+    "rgb": [
+      55,
+      51,
+      60
+    ],
+    "lab": [
+      "0.32875999340313555308",
+      "0.00962037695818787619",
+      "-0.01346330980763044138"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Blackstone Bricks",
+    "texture": "polished_blackstone_bricks.png",
+    "rgb": [
+      50,
+      46,
+      54
+    ],
+    "lab": [
+      "0.30857025295661355546",
+      "0.00931094401100798774",
+      "-0.01195313071592166154"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Deepslate",
+    "texture": "polished_deepslate.png",
+    "rgb": [
+      75,
+      75,
+      76
+    ],
+    "lab": [
+      "0.41318331589746065680",
+      "0.00046140726131310705",
+      "-0.00157506001439439158"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Diorite",
+    "texture": "polished_diorite.png",
+    "rgb": [
+      196,
+      196,
+      198
+    ],
+    "lab": [
+      "0.82090660905205781184",
+      "0.00077766399122902730",
+      "-0.00265274255308645124"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Polished Granite",
+    "texture": "polished_granite.png",
+    "rgb": [
+      156,
+      109,
+      91
+    ],
+    "lab": [
+      "0.57863065658001822111",
+      "0.04935504671153115308",
+      "0.04415028685999183855"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Powder Snow",
+    "texture": "powder_snow.png",
+    "rgb": [
+      248,
+      253,
+      253
+    ],
+    "lab": [
+      "0.99029144328484375315",
+      "-0.00505523186409001513",
+      "-0.00155240541322054781"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Prismarine",
+    "texture": "prismarine.png",
+    "rgb": [
+      104,
+      162,
+      157
+    ],
+    "lab": [
+      "0.67088405605011613986",
+      "-0.06044181725381869708",
+      "-0.00947691090611535447"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Prismarine Bricks",
+    "texture": "prismarine_bricks.png",
+    "rgb": [
+      102,
+      173,
+      161
+    ],
+    "lab": [
+      "0.69732736995088329124",
+      "-0.07414491192344979664",
+      "-0.00265662843340952470"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pumpkin Side",
+    "texture": "pumpkin_side.png",
+    "rgb": [
+      199,
+      119,
+      28
+    ],
+    "lab": [
+      "0.64271499608701720963",
+      "0.06391455883864316512",
+      "0.12254458136551349412"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Pumpkin Top",
+    "texture": "pumpkin_top.png",
+    "rgb": [
+      200,
+      121,
+      28
+    ],
+    "lab": [
+      "0.64756229313903501676",
+      "0.06192995522128430519",
+      "0.12367978539662016768"
+    ],
+    "sides": [
+      "top",
+      "bottom"
+    ]
+  },
+  {
+    "name": "Purple Concrete",
+    "texture": "purple_concrete.png",
+    "rgb": [
+      100,
+      31,
+      156
+    ],
+    "lab": [
+      "0.41726599624586668824",
+      "0.10482358415604703383",
+      "-0.15480545643524562527"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Concrete Powder",
+    "texture": "purple_concrete_powder.png",
+    "rgb": [
+      132,
+      55,
+      177
+    ],
+    "lab": [
+      "0.49979981487207647550",
+      "0.12216046254027185247",
+      "-0.14444227830706063420"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Glazed Terracotta",
+    "texture": "purple_glazed_terracotta.png",
+    "rgb": [
+      118,
+      50,
+      164
+    ],
+    "lab": [
+      "0.46684094666211206626",
+      "0.11030408453868700835",
+      "-0.13963877738888036406"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Shulker Box",
+    "texture": "purple_shulker_box.png",
+    "rgb": [
+      104,
+      32,
+      157
+    ],
+    "lab": [
+      "0.42424008604674134926",
+      "0.10955186201859312689",
+      "-0.15261344969330475907"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Stained Glass",
+    "texture": "purple_stained_glass.png",
+    "rgb": [
+      126,
+      63,
+      178
+    ],
+    "lab": [
+      "0.50306432484338525768",
+      "0.10494993214705949924",
+      "-0.14341334830355972896"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Terracotta",
+    "texture": "purple_terracotta.png",
+    "rgb": [
+      118,
+      70,
+      86
+    ],
+    "lab": [
+      "0.45545204355746288227",
+      "0.06902159676644006869",
+      "-0.00151612720444616045"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purple Wool",
+    "texture": "purple_wool.png",
+    "rgb": [
+      122,
+      43,
+      173
+    ],
+    "lab": [
+      "0.47104748663144407894",
+      "0.12150013081800847825",
+      "-0.15457874362795537282"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purpur Block",
+    "texture": "purpur_block.png",
+    "rgb": [
+      170,
+      127,
+      170
+    ],
+    "lab": [
+      "0.65276934219541016269",
+      "0.06643282763145008651",
+      "-0.04406716599153526204"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purpur Pillar",
+    "texture": "purpur_pillar.png",
+    "rgb": [
+      172,
+      131,
+      172
+    ],
+    "lab": [
+      "0.66300768088254691257",
+      "0.06313423647303556541",
+      "-0.04196182597453979035"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Purpur Pillar Top",
+    "texture": "purpur_pillar_top.png",
+    "rgb": [
+      172,
+      130,
+      172
+    ],
+    "lab": [
+      "0.66115037638306517476",
+      "0.06470491376057335708",
+      "-0.04297143375162182366"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Quartz Block Bottom",
+    "texture": "quartz_block_bottom.png",
+    "rgb": [
+      236,
+      230,
+      223
+    ],
+    "lab": [
+      "0.92769465006743356827",
+      "0.00355759924545384632",
+      "0.01088064826837820132"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Quartz Block Side",
+    "texture": "quartz_block_side.png",
+    "rgb": [
+      235,
+      229,
+      223
+    ],
+    "lab": [
+      "0.92493538238018890851",
+      "0.00394359432663088372",
+      "0.00961433925877697160"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Quartz Block Top",
+    "texture": "quartz_block_top.png",
+    "rgb": [
+      235,
+      229,
+      223
+    ],
+    "lab": [
+      "0.92493538238018890851",
+      "0.00394359432663088372",
+      "0.00961433925877697160"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Quartz Pillar",
+    "texture": "quartz_pillar.png",
+    "rgb": [
+      235,
+      230,
+      224
+    ],
+    "lab": [
+      "0.92717506484181289039",
+      "0.00289939140873723966",
+      "0.00928476137022904435"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Raw Copper Block",
+    "texture": "raw_copper_block.png",
+    "rgb": [
+      163,
+      109,
+      82
+    ],
+    "lab": [
+      "0.58510248333224124107",
+      "0.05403087421947730395",
+      "0.05849173141533026143"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Raw Gold Block",
+    "texture": "raw_gold_block.png",
+    "rgb": [
+      224,
+      176,
+      61
+    ],
+    "lab": [
+      "0.78115497968211566882",
+      "0.01154211977560981595",
+      "0.13837585977729521813"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Raw Iron Block",
+    "texture": "raw_iron_block.png",
+    "rgb": [
+      172,
+      141,
+      115
+    ],
+    "lab": [
+      "0.66532320705141523298",
+      "0.02495943769222397357",
+      "0.04637582771848863805"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Concrete",
+    "texture": "red_concrete.png",
+    "rgb": [
+      142,
+      32,
+      32
+    ],
+    "lab": [
+      "0.42748508849675520560",
+      "0.13116969764205305138",
+      "0.06377397913261784179"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Concrete Powder",
+    "texture": "red_concrete_powder.png",
+    "rgb": [
+      168,
+      54,
+      50
+    ],
+    "lab": [
+      "0.49980068289314982799",
+      "0.13494781321689811038",
+      "0.06622017566742416372"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Glazed Terracotta",
+    "texture": "red_glazed_terracotta.png",
+    "rgb": [
+      184,
+      66,
+      58
+    ],
+    "lab": [
+      "0.54216776008256406527",
+      "0.13713418651703526696",
+      "0.07075129361838844444"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Mushroom Block",
+    "texture": "red_mushroom_block.png",
+    "rgb": [
+      200,
+      56,
+      55
+    ],
+    "lab": [
+      "0.55758837487787882292",
+      "0.16346243613720110033",
+      "0.07835978979816993206"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Nether Bricks",
+    "texture": "red_nether_bricks.png",
+    "rgb": [
+      73,
+      7,
+      10
+    ],
+    "lab": [
+      "0.26317403876178957489",
+      "0.08703153241364006143",
+      "0.04038420269594536482"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Sand",
+    "texture": "red_sand.png",
+    "rgb": [
+      191,
+      103,
+      33
+    ],
+    "lab": [
+      "0.60463638601564206887",
+      "0.08091835522245521828",
+      "0.11075613494921132673"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Sandstone",
+    "texture": "red_sandstone.png",
+    "rgb": [
+      187,
+      100,
+      31
+    ],
+    "lab": [
+      "0.59390388214316547355",
+      "0.08056091379558999455",
+      "0.10933339707909434102"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Sandstone Bottom",
+    "texture": "red_sandstone_bottom.png",
+    "rgb": [
+      186,
+      99,
+      30
+    ],
+    "lab": [
+      "0.59076325776834259784",
+      "0.08076438786843703754",
+      "0.10914701545364946522"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Red Sandstone Top",
+    "texture": "red_sandstone_top.png",
+    "rgb": [
+      181,
+      97,
+      31
+    ],
+    "lab": [
+      "0.58045143249044262035",
+      "0.07828151674163380536",
+      "0.10611458378458538121"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Shulker Box",
+    "texture": "red_shulker_box.png",
+    "rgb": [
+      141,
+      31,
+      30
+    ],
+    "lab": [
+      "0.42442471189594466185",
+      "0.13066195935270680240",
+      "0.06495898267803662529"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Stained Glass",
+    "texture": "red_stained_glass.png",
+    "rgb": [
+      153,
+      50,
+      50
+    ],
+    "lab": [
+      "0.46936041301117908953",
+      "0.12584636052030379050",
+      "0.05635488143515521298"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Terracotta",
+    "texture": "red_terracotta.png",
+    "rgb": [
+      143,
+      61,
+      46
+    ],
+    "lab": [
+      "0.46708243486224870766",
+      "0.09726818961393726704",
+      "0.06115284744117616134"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Red Wool",
+    "texture": "red_wool.png",
+    "rgb": [
+      161,
+      39,
+      34
+    ],
+    "lab": [
+      "0.46948153581185264605",
+      "0.14107250380851507621",
+      "0.07379157356210702678"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Redstone Block",
+    "texture": "redstone_block.png",
+    "rgb": [
+      181,
+      25,
+      5
+    ],
+    "lab": [
+      "0.49480039488441723838",
+      "0.16357101069902577062",
+      "0.09741000480205408429"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Redstone Lamp",
+    "texture": "redstone_lamp.png",
+    "rgb": [
+      107,
+      61,
+      33
+    ],
+    "lab": [
+      "0.41006420009565364149",
+      "0.04865411421945756154",
+      "0.05916108665953678791"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Redstone Lamp On",
+    "texture": "redstone_lamp_on.png",
+    "rgb": [
+      169,
+      126,
+      82
+    ],
+    "lab": [
+      "0.62534807965564020993",
+      "0.03248472238015548408",
+      "0.07334034194205862889"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Redstone Ore",
+    "texture": "redstone_ore.png",
+    "rgb": [
+      147,
+      117,
+      117
+    ],
+    "lab": [
+      "0.59130649322343586949",
+      "0.03584936961105239517",
+      "0.01183871005257863818"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Reinforced Deepslate Bottom",
+    "texture": "reinforced_deepslate_bottom.png",
+    "rgb": [
+      86,
+      92,
+      85
+    ],
+    "lab": [
+      "0.46716271823790872508",
+      "-0.01046305057821461659",
+      "0.00840611450527595228"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Reinforced Deepslate Side",
+    "texture": "reinforced_deepslate_side.png",
+    "rgb": [
+      118,
+      125,
+      110
+    ],
+    "lab": [
+      "0.57929169573597116827",
+      "-0.01460347225094427159",
+      "0.01894440175081535394"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Reinforced Deepslate Top",
+    "texture": "reinforced_deepslate_top.png",
+    "rgb": [
+      91,
+      95,
+      86
+    ],
+    "lab": [
+      "0.47905226642159737249",
+      "-0.00893729919142097207",
+      "0.01202949933968561202"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Respawn Anchor Top",
+    "texture": "respawn_anchor_top.png",
+    "rgb": [
+      84,
+      32,
+      162
+    ],
+    "lab": [
+      "0.40416535698655453590",
+      "0.07793923549833825515",
+      "-0.17331590638119620529"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Respawn Anchor Top Off",
+    "texture": "respawn_anchor_top_off.png",
+    "rgb": [
+      45,
+      29,
+      73
+    ],
+    "lab": [
+      "0.27566131818724887159",
+      "0.03687670816636695603",
+      "-0.07002341311521045886"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Rooted Dirt",
+    "texture": "rooted_dirt.png",
+    "rgb": [
+      147,
+      107,
+      81
+    ],
+    "lab": [
+      "0.56203618114486231239",
+      "0.03751243317905395003",
+      "0.05170971868326490473"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sand",
+    "texture": "sand.png",
+    "rgb": [
+      219,
+      207,
+      163
+    ],
+    "lab": [
+      "0.85331020327860573893",
+      "-0.00479560063839307160",
+      "0.05943373493349013437"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sandstone",
+    "texture": "sandstone.png",
+    "rgb": [
+      216,
+      204,
+      158
+    ],
+    "lab": [
+      "0.84362324300673119382",
+      "-0.00562425274367728267",
+      "0.06195348522494992238"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sandstone Bottom",
+    "texture": "sandstone_bottom.png",
+    "rgb": [
+      215,
+      203,
+      156
+    ],
+    "lab": [
+      "0.84032165194963004407",
+      "-0.00603704618814637772",
+      "0.06318871273087722784"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Sandstone Top",
+    "texture": "sandstone_top.png",
+    "rgb": [
+      223,
+      214,
+      170
+    ],
+    "lab": [
+      "0.87233238365762422184",
+      "-0.00798424421318005839",
+      "0.05824394354698325671"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sculk",
+    "texture": "sculk.png",
+    "rgb": [
+      13,
+      35,
+      41
+    ],
+    "lab": [
+      "0.24114350890192029486",
+      "-0.02372482774669533445",
+      "-0.01846829398318167170"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sculk Catalyst Bottom",
+    "texture": "sculk_catalyst_bottom.png",
+    "rgb": [
+      102,
+      118,
+      115
+    ],
+    "lab": [
+      "0.55171125848571522798",
+      "-0.01955414596943999550",
+      "-0.00104100479698515658"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Sculk Catalyst Side",
+    "texture": "sculk_catalyst_side.png",
+    "rgb": [
+      107,
+      120,
+      107
+    ],
+    "lab": [
+      "0.55786271422147859500",
+      "-0.02063853405701016053",
+      "0.01432893853792477357"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sea Lantern",
+    "texture": "sea_lantern.png",
+    "rgb": [
+      183,
+      205,
+      196
+    ],
+    "lab": [
+      "0.82918487737636892287",
+      "-0.02635048995946742689",
+      "0.00505027333944807477"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Shroomlight",
+    "texture": "shroomlight.png",
+    "rgb": [
+      241,
+      156,
+      93
+    ],
+    "lab": [
+      "0.76595735812394527553",
+      "0.07219503070513155762",
+      "0.10669964283768240687"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Shulker Box",
+    "texture": "shulker_box.png",
+    "rgb": [
+      140,
+      97,
+      140
+    ],
+    "lab": [
+      "0.55298215848644127757",
+      "0.06903933383121918510",
+      "-0.04548435999172434352"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Slime Block",
+    "texture": "slime_block.png",
+    "rgb": [
+      112,
+      192,
+      92
+    ],
+    "lab": [
+      "0.73351430590297894696",
+      "-0.11955105350812500475",
+      "0.10167919088743221367"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Smithing Table Bottom",
+    "texture": "smithing_table_bottom.png",
+    "rgb": [
+      65,
+      28,
+      24
+    ],
+    "lab": [
+      "0.27903352203915648966",
+      "0.05173521254422448756",
+      "0.02722630104205714385"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Smithing Table Front",
+    "texture": "smithing_table_front.png",
+    "rgb": [
+      62,
+      40,
+      44
+    ],
+    "lab": [
+      "0.30510532288693137382",
+      "0.03333330063589212688",
+      "0.00425761191360826685"
+    ],
+    "sides": [
+      "north",
+      "south"
+    ]
+  },
+  {
+    "name": "Smithing Table Top",
+    "texture": "smithing_table_top.png",
+    "rgb": [
+      58,
+      60,
+      73
+    ],
+    "lab": [
+      "0.35949189105068035666",
+      "0.00326583927510518124",
+      "-0.02234790884702930747"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Smoker Bottom",
+    "texture": "smoker_bottom.png",
+    "rgb": [
+      110,
+      109,
+      108
+    ],
+    "lab": [
+      "0.53532825451679566520",
+      "0.00075118253994757578",
+      "0.00183897905802554718"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Smoker Side",
+    "texture": "smoker_side.png",
+    "rgb": [
+      106,
+      96,
+      86
+    ],
+    "lab": [
+      "0.49546774069327637058",
+      "0.00777558986773774219",
+      "0.01861880328969756082"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Smoker Top",
+    "texture": "smoker_top.png",
+    "rgb": [
+      92,
+      90,
+      89
+    ],
+    "lab": [
+      "0.46911749734748536822",
+      "0.00200758492575550673",
+      "0.00228288507699103693"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Smooth Basalt",
+    "texture": "smooth_basalt.png",
+    "rgb": [
+      75,
+      74,
+      79
+    ],
+    "lab": [
+      "0.41186424529149462392",
+      "0.00354275534962791849",
+      "-0.00752667878173063354"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Smooth Stone",
+    "texture": "smooth_stone.png",
+    "rgb": [
+      159,
+      159,
+      159
+    ],
+    "lab": [
+      "0.70251074535425295231",
+      "0.00000000005687028626",
+      "0.00000002618532068954"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Smooth Stone Slab Side",
+    "texture": "smooth_stone_slab_side.png",
+    "rgb": [
+      169,
+      169,
+      169
+    ],
+    "lab": [
+      "0.73480857801100396554",
+      "0.00000000005948486148",
+      "0.00000002738918725154"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Snow",
+    "texture": "snow.png",
+    "rgb": [
+      249,
+      254,
+      254
+    ],
+    "lab": [
+      "0.99327115254409581446",
+      "-0.00505151410174636828",
+      "-0.00155129469987380642"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Soul Sand",
+    "texture": "soul_sand.png",
+    "rgb": [
+      84,
+      64,
+      52
+    ],
+    "lab": [
+      "0.38962090253865527822",
+      "0.02086843498878379610",
+      "0.02707875208255172694"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Soul Soil",
+    "texture": "soul_soil.png",
+    "rgb": [
+      77,
+      59,
+      47
+    ],
+    "lab": [
+      "0.36844387000566986012",
+      "0.01843622610659614858",
+      "0.02650251471081332966"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Sponge",
+    "texture": "sponge.png",
+    "rgb": [
+      196,
+      193,
+      74
+    ],
+    "lab": [
+      "0.79090933747122083020",
+      "-0.04268819048640803970",
+      "0.13276204707614036593"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Spruce Log",
+    "texture": "spruce_log.png",
+    "rgb": [
+      60,
+      38,
+      17
+    ],
+    "lab": [
+      "0.29083148432765720814",
+      "0.02141493851637792101",
+      "0.04172874982469038097"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Spruce Planks",
+    "texture": "spruce_planks.png",
+    "rgb": [
+      116,
+      86,
+      49
+    ],
+    "lab": [
+      "0.47599277197255707161",
+      "0.02153668197169217313",
+      "0.06228772378833719037"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Spruce Trapdoor",
+    "texture": "spruce_trapdoor.png",
+    "rgb": [
+      105,
+      80,
+      50
+    ],
+    "lab": [
+      "0.45002011267441510700",
+      "0.01833355623307714177",
+      "0.05241983704734448635"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stone",
+    "texture": "stone.png",
+    "rgb": [
+      126,
+      126,
+      126
+    ],
+    "lab": [
+      "0.59310331331409937849",
+      "0.00000000004801342657",
+      "0.00000002210727817475"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stone Bricks",
+    "texture": "stone_bricks.png",
+    "rgb": [
+      124,
+      123,
+      124
+    ],
+    "lab": [
+      "0.58410378597291645608",
+      "0.00158358331851204959",
+      "-0.00108424290507769250"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stonecutter Bottom",
+    "texture": "stonecutter_bottom.png",
+    "rgb": [
+      120,
+      119,
+      120
+    ],
+    "lab": [
+      "0.57045767957199922105",
+      "0.00159299131226942059",
+      "-0.00109065473160580018"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Stripped Acacia Log",
+    "texture": "stripped_acacia_log.png",
+    "rgb": [
+      175,
+      93,
+      59
+    ],
+    "lab": [
+      "0.56817492699877081286",
+      "0.08624495300208248616",
+      "0.07912137889750853192"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Acacia Log Top",
+    "texture": "stripped_acacia_log_top.png",
+    "rgb": [
+      166,
+      91,
+      51
+    ],
+    "lab": [
+      "0.55112495117849480408",
+      "0.07614239908030584481",
+      "0.08235473411896659934"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Bamboo Block",
+    "texture": "stripped_bamboo_block.png",
+    "rgb": [
+      195,
+      175,
+      82
+    ],
+    "lab": [
+      "0.75258155281114602619",
+      "-0.01476765312908806527",
+      "0.11482462713137864263"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Bamboo Block Top",
+    "texture": "stripped_bamboo_block_top.png",
+    "rgb": [
+      184,
+      164,
+      77
+    ],
+    "lab": [
+      "0.71850602283104492152",
+      "-0.01250886730347855469",
+      "0.10922692909787801163"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Stripped Birch Log",
+    "texture": "stripped_birch_log.png",
+    "rgb": [
+      197,
+      176,
+      118
+    ],
+    "lab": [
+      "0.76175388379761466151",
+      "-0.00052528451837668966",
+      "0.07986624972608380446"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Birch Log Top",
+    "texture": "stripped_birch_log_top.png",
+    "rgb": [
+      192,
+      172,
+      117
+    ],
+    "lab": [
+      "0.74870111015890761230",
+      "-0.00043239232530167815",
+      "0.07632774200608227755"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Cherry Log",
+    "texture": "stripped_cherry_log.png",
+    "rgb": [
+      215,
+      145,
+      149
+    ],
+    "lab": [
+      "0.72739197578079006767",
+      "0.08203491260189377243",
+      "0.02294319726881011157"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Cherry Log Top",
+    "texture": "stripped_cherry_log_top.png",
+    "rgb": [
+      221,
+      166,
+      159
+    ],
+    "lab": [
+      "0.77447264118293046575",
+      "0.05905942900824240338",
+      "0.03001721549178104631"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Crimson Stem",
+    "texture": "stripped_crimson_stem.png",
+    "rgb": [
+      137,
+      57,
+      90
+    ],
+    "lab": [
+      "0.46288367285244524929",
+      "0.11488869225419429121",
+      "-0.00656753203140425512"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Crimson Stem Top",
+    "texture": "stripped_crimson_stem_top.png",
+    "rgb": [
+      123,
+      56,
+      83
+    ],
+    "lab": [
+      "0.43757833320192585091",
+      "0.09814387080531838947",
+      "-0.00590700591842108214"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Dark Oak Log",
+    "texture": "stripped_dark_oak_log.png",
+    "rgb": [
+      73,
+      57,
+      36
+    ],
+    "lab": [
+      "0.35633661584151576918",
+      "0.01141673929316480707",
+      "0.03854013020580046578"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Dark Oak Log Top",
+    "texture": "stripped_dark_oak_log_top.png",
+    "rgb": [
+      66,
+      44,
+      23
+    ],
+    "lab": [
+      "0.31421897961070210936",
+      "0.02079048212923538530",
+      "0.04158491854087661976"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Jungle Log",
+    "texture": "stripped_jungle_log.png",
+    "rgb": [
+      172,
+      133,
+      85
+    ],
+    "lab": [
+      "0.64322081863212265951",
+      "0.02566793208579828955",
+      "0.07614584491146586531"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Jungle Log Top",
+    "texture": "stripped_jungle_log_top.png",
+    "rgb": [
+      166,
+      123,
+      82
+    ],
+    "lab": [
+      "0.61599250923312520722",
+      "0.03388039436395315351",
+      "0.07006162430558615650"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Mangrove Log",
+    "texture": "stripped_mangrove_log.png",
+    "rgb": [
+      119,
+      54,
+      48
+    ],
+    "lab": [
+      "0.41829530228581585094",
+      "0.08232738819232937599",
+      "0.04215648262120885725"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Mangrove Log Top",
+    "texture": "stripped_mangrove_log_top.png",
+    "rgb": [
+      109,
+      44,
+      43
+    ],
+    "lab": [
+      "0.38499044295529882831",
+      "0.08559186586762504434",
+      "0.03693072633559890683"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Oak Log",
+    "texture": "stripped_oak_log.png",
+    "rgb": [
+      178,
+      144,
+      86
+    ],
+    "lab": [
+      "0.67211255727394481063",
+      "0.01525368885043543177",
+      "0.08501980596903907506"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Oak Log Top",
+    "texture": "stripped_oak_log_top.png",
+    "rgb": [
+      162,
+      131,
+      78
+    ],
+    "lab": [
+      "0.62732512331573897502",
+      "0.01408520717184028048",
+      "0.07906450668817072147"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Spruce Log",
+    "texture": "stripped_spruce_log.png",
+    "rgb": [
+      116,
+      90,
+      52
+    ],
+    "lab": [
+      "0.48517422556969036496",
+      "0.01568792368227331369",
+      "0.06189407988015882545"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Spruce Log Top",
+    "texture": "stripped_spruce_log_top.png",
+    "rgb": [
+      109,
+      81,
+      47
+    ],
+    "lab": [
+      "0.45644905592084722423",
+      "0.02049606484098612236",
+      "0.05827562707272776477"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Warped Stem",
+    "texture": "stripped_warped_stem.png",
+    "rgb": [
+      58,
+      151,
+      148
+    ],
+    "lab": [
+      "0.62103832475117481948",
+      "-0.08478063965707383076",
+      "-0.01828901624187828645"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Stripped Warped Stem Top",
+    "texture": "stripped_warped_stem_top.png",
+    "rgb": [
+      52,
+      130,
+      126
+    ],
+    "lab": [
+      "0.55754115442857732354",
+      "-0.07479698147961644228",
+      "-0.01392297899629030278"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Target Side",
+    "texture": "target_side.png",
+    "rgb": [
+      230,
+      199,
+      190
+    ],
+    "lab": [
+      "0.85349604729619843457",
+      "0.02998513487970883018",
+      "0.02240727414342236212"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Target Top",
+    "texture": "target_top.png",
+    "rgb": [
+      227,
+      192,
+      177
+    ],
+    "lab": [
+      "0.83398097073549082303",
+      "0.03225151533641595902",
+      "0.03171098356086166081"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Terracotta",
+    "texture": "terracotta.png",
+    "rgb": [
+      152,
+      94,
+      67
+    ],
+    "lab": [
+      "0.54013308495454237512",
+      "0.06032911457213960271",
+      "0.06121232213594673954"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Tinted Glass",
+    "texture": "tinted_glass.png",
+    "rgb": [
+      44,
+      40,
+      46
+    ],
+    "lab": [
+      "0.28355773595925765074",
+      "0.00856792565758013325",
+      "-0.00868284774905414558"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Tnt Bottom",
+    "texture": "tnt_bottom.png",
+    "rgb": [
+      170,
+      82,
+      77
+    ],
+    "lab": [
+      "0.54632668878873502649",
+      "0.10575471903872057933",
+      "0.04922453478637323077"
+    ],
+    "sides": [
+      "bottom"
+    ]
+  },
+  {
+    "name": "Tnt Side",
+    "texture": "tnt_side.png",
+    "rgb": [
+      190,
+      123,
+      123
+    ],
+    "lab": [
+      "0.65264649832509180616",
+      "0.07920577139243278886",
+      "0.02818149013336379571"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Tnt Top",
+    "texture": "tnt_top.png",
+    "rgb": [
+      162,
+      77,
+      71
+    ],
+    "lab": [
+      "0.52552307780022178285",
+      "0.10256902179843152556",
+      "0.04961878914750533776"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Tube Coral Block",
+    "texture": "tube_coral_block.png",
+    "rgb": [
+      50,
+      90,
+      209
+    ],
+    "lab": [
+      "0.51162979628425919731",
+      "-0.01391527155954658257",
+      "-0.18879862526781399090"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Tuff",
+    "texture": "tuff.png",
+    "rgb": [
+      110,
+      111,
+      105
+    ],
+    "lab": [
+      "0.53893531221114165941",
+      "-0.00381284846380960940",
+      "0.00841148786114342961"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Verdant Froglight Side",
+    "texture": "verdant_froglight_side.png",
+    "rgb": [
+      215,
+      235,
+      213
+    ],
+    "lab": [
+      "0.91925031203504126154",
+      "-0.02886830170758675207",
+      "0.02196793656403994710"
+    ],
+    "sides": [
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Verdant Froglight Top",
+    "texture": "verdant_froglight_top.png",
+    "rgb": [
+      231,
+      244,
+      230
+    ],
+    "lab": [
+      "0.95360765347931497615",
+      "-0.01852105837095646690",
+      "0.01377046977373252989"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Warped Nylium",
+    "texture": "warped_nylium.png",
+    "rgb": [
+      50,
+      117,
+      104
+    ],
+    "lab": [
+      "0.51516011014549589753",
+      "-0.07132060158198286204",
+      "0.00164135552715510835"
+    ],
+    "sides": [
+      "top"
+    ]
+  },
+  {
+    "name": "Warped Planks",
+    "texture": "warped_planks.png",
+    "rgb": [
+      45,
+      109,
+      104
+    ],
+    "lab": [
+      "0.49189918696695306144",
+      "-0.06499860276530772252",
+      "-0.00946950232471993614"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Warped Stem",
+    "texture": "warped_stem.png",
+    "rgb": [
+      62,
+      68,
+      80
+    ],
+    "lab": [
+      "0.38584361690792312594",
+      "-0.00218800163544882742",
+      "-0.02182662651050049085"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Warped Wart Block",
+    "texture": "warped_wart_block.png",
+    "rgb": [
+      22,
+      121,
+      122
+    ],
+    "lab": [
+      "0.52454817500946782083",
+      "-0.08084649085732353857",
+      "-0.02313104843923102782"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Weathered Copper",
+    "texture": "weathered_copper.png",
+    "rgb": [
+      109,
+      154,
+      113
+    ],
+    "lab": [
+      "0.64225074716658814289",
+      "-0.06521400897855528234",
+      "0.04262328751144045524"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Weathered Cut Copper",
+    "texture": "weathered_cut_copper.png",
+    "rgb": [
+      111,
+      147,
+      110
+    ],
+    "lab": [
+      "0.62589726101466458541",
+      "-0.05493221955231181175",
+      "0.03984202135180242577"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Wet Sponge",
+    "texture": "wet_sponge.png",
+    "rgb": [
+      173,
+      182,
+      70
+    ],
+    "lab": [
+      "0.74725246951026669251",
+      "-0.05405226416752145768",
+      "0.12411014834702643883"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Concrete",
+    "texture": "white_concrete.png",
+    "rgb": [
+      207,
+      213,
+      214
+    ],
+    "lab": [
+      "0.86867325641131876157",
+      "-0.00587309100006266904",
+      "-0.00322610847564952508"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Concrete Powder",
+    "texture": "white_concrete_powder.png",
+    "rgb": [
+      225,
+      227,
+      228
+    ],
+    "lab": [
+      "0.91457578396014016509",
+      "-0.00168817701021689581",
+      "-0.00192748031661238439"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Glazed Terracotta",
+    "texture": "white_glazed_terracotta.png",
+    "rgb": [
+      212,
+      219,
+      215
+    ],
+    "lab": [
+      "0.88491140779044130671",
+      "-0.00880111222123891590",
+      "0.00297458027549624138"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Shulker Box",
+    "texture": "white_shulker_box.png",
+    "rgb": [
+      216,
+      221,
+      221
+    ],
+    "lab": [
+      "0.89369777444992481996",
+      "-0.00518369193148793261",
+      "-0.00159069461650951371"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Stained Glass",
+    "texture": "white_stained_glass.png",
+    "rgb": [
+      254,
+      254,
+      254
+    ],
+    "lab": [
+      "0.99702518515476235006",
+      "0.00000000008071221469",
+      "0.00000003716302476864"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Terracotta",
+    "texture": "white_terracotta.png",
+    "rgb": [
+      209,
+      178,
+      161
+    ],
+    "lab": [
+      "0.78605257973528674942",
+      "0.02745676658679824245",
+      "0.03327425352807777958"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "White Wool",
+    "texture": "white_wool.png",
+    "rgb": [
+      234,
+      236,
+      237
+    ],
+    "lab": [
+      "0.94184211951830310028",
+      "-0.00167594457127956398",
+      "-0.00191342506657155020"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Concrete",
+    "texture": "yellow_concrete.png",
+    "rgb": [
+      240,
+      175,
+      21
+    ],
+    "lab": [
+      "0.79426907983309036343",
+      "0.02519822488638961966",
+      "0.15861099065062284064"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Concrete Powder",
+    "texture": "yellow_concrete_powder.png",
+    "rgb": [
+      232,
+      199,
+      57
+    ],
+    "lab": [
+      "0.83463082116625919582",
+      "-0.01436803172383205318",
+      "0.15436949135017608015"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Glazed Terracotta",
+    "texture": "yellow_glazed_terracotta.png",
+    "rgb": [
+      237,
+      198,
+      112
+    ],
+    "lab": [
+      "0.84275049503896626302",
+      "0.00887070748947310639",
+      "0.11365882395924142845"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Shulker Box",
+    "texture": "yellow_shulker_box.png",
+    "rgb": [
+      248,
+      189,
+      30
+    ],
+    "lab": [
+      "0.82969837169884586014",
+      "0.01466069624568006047",
+      "0.16398663744502905981"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Stained Glass",
+    "texture": "yellow_stained_glass.png",
+    "rgb": [
+      228,
+      228,
+      50
+    ],
+    "lab": [
+      "0.89068595145266626911",
+      "-0.06101002862482191036",
+      "0.17145003731245500589"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Terracotta",
+    "texture": "yellow_terracotta.png",
+    "rgb": [
+      186,
+      133,
+      35
+    ],
+    "lab": [
+      "0.65336928886639822345",
+      "0.02693537346478100392",
+      "0.12209490148745305582"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  },
+  {
+    "name": "Yellow Wool",
+    "texture": "yellow_wool.png",
+    "rgb": [
+      248,
+      198,
+      41
+    ],
+    "lab": [
+      "0.84746915729417160446",
+      "0.00282983044506401882",
+      "0.16438373025406982642"
+    ],
+    "sides": [
+      "top",
+      "bottom",
+      "north",
+      "south",
+      "east",
+      "west"
+    ]
+  }
+]
